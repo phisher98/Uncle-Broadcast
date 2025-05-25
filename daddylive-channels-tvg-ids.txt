@@ -1,0 +1,512 @@
+ABC USA
+A&E USA
+AMC USA
+Animal Planet
+Astro SuperSport 1
+Astro SuperSport 2
+Astro SuperSport 3
+Astro SuperSport 4
+Alkass One
+Alkass Two
+Alkass Three
+Alkass Four
+ABS-CBN
+Arena Sport 1 BiH
+Abu Dhabi Sports 1 UAE
+Abu Dhabi Sports 2 UAE
+Abu Dhabi Sports 1 Premium
+Abu Dhabi Sports 2 Premium
+Astro Cricket
+Antena 3 Spain
+ACC Network USA
+Adult Swim
+AXN Movies Portugal
+Arte DE
+AXS TV USA
+ABCNY USA
+beIN Sports MENA English 1
+beIN Sports MENA English 2
+beIN Sports MENA 1
+beIN Sports MENA 2
+beIN Sports MENA 3
+beIN Sports MENA 4
+beIN Sports MENA 5
+beIN Sports MENA 6
+beIN Sports MENA 7
+beIN Sports MENA Premium 1
+beIN Sports MENA Premium 2
+beIN Sports MENA Premium 3
+beIN SPORTS 1 Turkey
+beIN SPORTS 4 Turkey
+BeIN Sports HD Qatar
+beIN SPORTS Australia 1
+beIN SPORTS Australia 2
+beIN SPORTS Australia 3
+Barca TV Spain
+Boomerang
+BNT 1 Bulgaria
+BNT 2 Bulgaria
+BNT 3 Bulgaria
+BR Fernsehen DE
+bTV Bulgaria
+bTV Action Bulgaria
+bTV Lady Bulgaria
+BBC America (BBCA)
+BET USA
+Bravo USA
+BBC News Channel HD
+BBC One UK
+BBC Two UK
+BBC Three UK
+BBC Four UK
+Cuatro Spain
+Channel 4 UK
+Channel 5 UK
+CBS Sports Network (CBSSN)
+Canal 11 Portugal
+Canal+ Premium Poland
+Canal+ Seriale Poland
+Canal+ Sport 1 Afrique
+Canal+ Sport 2 Afrique
+Canal+ Sport 3 Afrique
+Canal+ Sport 4 Afrique
+Canal+ Sport 5 Afrique
+CANAL9 Denmark
+Combate Brasil
+C More Football Sweden
+Cosmote Sport 1 HD
+Cosmote Sport 2 HD
+Cosmote Sport 3 HD
+Cosmote Sport 4 HD
+Cosmote Sport 5 HD
+Cosmote Sport 6 HD
+Cosmote Sport 7 HD
+Cosmote Sport 8 HD
+Cosmote Sport 9 HD
+Channel 9 Israel
+Channel 11 Israel
+Channel 12 Israel
+Channel 13 Israel
+Channel 14 Israel
+C More Series Sweden
+COZI TV USA
+CMT USA
+CW USA
+CNBC USA
+Comedy Central
+Cartoon Network
+CNN USA
+Cinemax USA
+CTV Canada
+CTV 2 Canada
+Crime+ Investigation USA
+Comet USA
+Cooking Channel USA
+Cleo TV
+C SPAN 1
+CBSNY USA
+Citytv
+CBC CA
+DAZN 3 Spain
+DAZN 4 Spain
+DR1 Denmark
+DR2 Denmark
+Digi Sport 1 Romania
+Digi Sport 2 Romania
+Digi Sport 3 Romania
+Digi Sport 4 Romania
+Diema Sport Bulgaria
+Diema Sport 2 Bulgaria
+Diema Sport 3 Bulgaria
+Diema Bulgaria
+Diema Family Bulgaria
+Dubai Sports 1 UAE
+Dubai Sports 2 UAE
+Dubai Sports 3 UAE
+Dubai Racing 1 UAE
+Dubai Racing 2 UAE
+DSTV kykNET & kie
+Discovery Life Channel
+Disney Channel
+Discovery Channel
+Discovery Family
+Disney XD
+Destination America
+Disney JR
+Dave
+ESPN2 USA
+ESPNU USA
+ESPN 1 NL
+ESPN 2 NL
+EuroSport 1 UK
+EuroSport 2 UK
+EuroSport 2 Spain
+EuroSport 1 Italy
+EuroSport 2 Italy
+Eurosport 1 Bulgaria
+Eurosport 2 Bulgaria
+ESPN Premium Argentina
+ESPN Brasil
+ESPN2 Brasil
+ESPN3 Brasil
+ESPN4 Brasil
+ESPN SUR
+ESPN2 SUR
+ESPN Deportes
+ESPNews
+E! Entertainment Television
+E4 Channel
+Fox Sports 2 USA
+FOX Soccer Plus
+Fox Cricket
+FOX Deportes USA
+FOX Sports 502 AU
+FOX Sports 503 AU
+FOX Sports 504 AU
+FOX Sports 505 AU
+FOX Sports 506 AU
+FOX Sports 507 AU
+Fox Sports Argentina
+Fox Sports 2 Argentina
+Fox Sports 3 Argentina
+Fox Sports Premium MX
+FilmBox Premium Poland
+Fight Network
+Fox Business
+FOX HD Bulgaria
+FX USA
+FXX USA
+Freeform
+Fox News
+FX Movie Channel
+Film4 UK
+Fashion TV
+FETV - Family Entertainment Television
+FOXNY USA
+Fox Weather Channel
+GOL PLAY Spain
+Game Show Network
+Gol Mundial 1
+Gold UK
+Galavisi贸n USA
+CBC CA
+Grit Channel
+Globo SP
+Globo RIO
+Global CA
+The Hallmark Channel
+Hallmark Movies & Mysterie
+HBO USA
+HBO2 USA
+HBO Comedy USA
+HBO Family USA
+HBO Latino USA
+HBO Signature USA
+HBO Zone USA
+HBO Poland
+History USA
+Headline News
+HGTV
+HOT3 Israel
+HR Fernsehen DE
+ITV 1 UK
+ITV 2 UK
+ITV 3 UK
+ITV 4 UK
+Italia 1 Italy
+Investigation Discovery (ID USA)
+ION USA
+IFC TV USA
+Kanal 4 Denmark
+Kanal 5 Denmark
+Kabel Eins (Kabel 1) DE
+L'Equipe France
+La Sexta Spain
+Liverpool TV (LFC TV)
+Lifetime Network
+Lifetime Movies Network
+La7 Italy
+LA7d HD+ Italy
+Match Football 1 Russia
+Match Football 2 Russia
+Match Football 3 Russia
+Match Premier Russia
+Match TV Russia
+МАТЧ! БОЕЦ Russia
+Movistar Laliga
+Movistar Liga de Campeones
+Movistar Deportes 2 Spain
+Movistar Deportes 3 Spain
+Movistar Golf Spain
+Motowizja Poland
+MSG USA
+MSNBC
+Magnolia Network
+MTV UK
+MTV USA
+MUTV UK
+MAVTV USA
+Marquee Sports Network
+Max Sport 1 Bulgaria
+Max Sport 2 Bulgaria
+Max Sport 3 Bulgaria
+Max Sport 4 Bulgaria
+MLB Network USA
+MASN USA
+MY9TV USA
+Motor Trend
+METV USA
+MDR DE
+Mundotoro TV Spain
+MTV Denmark
+NHL Network USA
+Nova Sport Bulgaria
+Nova Sport Serbia
+Nova Sports 1 Greece
+Nova Sports 2 Greece
+Nova Sports 3 Greece
+Nova Sports 4 Greece
+Nova Sports 5 Greece
+Nova Sports 6 Greece
+Nova Sports Premier League Greece
+Nova Sports Start Greece
+Nova Sports News Greece
+NESN USA
+NBC USA
+NBA TV USA
+NBC Sports Chicago
+NBC Sports Philadelphia
+NBC Sports Washington
+NFL Network
+NBC Sports Bay Area
+NBC Sports Boston
+NBC Sports California
+NBCNY USA
+Nova TV Bulgaria
+National Geographic (NGC)
+NICK JR
+NICK
+Nicktoons
+NDR DE
+NewsNation USA
+Newsmax USA
+Nat Geo Wild USA
+Noovo CA
+New! CWPIX 11
+OnTime Sports
+OnTime Sports 2
+ONE 1 HD Israel
+ONE 2 HD Israel
+Orange Sport 1 Romania
+Orange Sport 2 Romania
+Oprah Winfrey Network (OWN)
+Oxygen True Crime
+Polsat Poland
+Polsat News Poland
+Polsat Film Poland
+Porto Canal Portugal
+ProSieben (PRO7) DE
+PTV Sports
+Premier Brasil
+Prima Sport 1
+Paramount Network
+POP TV USA
+RTE 1
+RTE 2
+RMC Sport 1 France
+RMC Sport 2 France
+RTP 2 Portugal
+RTP 3 Portugal
+Rai 1 Italy
+Rai 2 Italy
+Rai 3 Italy
+Rai 3 Italy
+Rai Premium Italy
+Real Madrid TV Spain
+RDS CA
+RDS 2 CA
+RDS Info CA
+Ring Bulgaria
+RTL7 Netherland
+Racing Tv UK
+Reelz Channel
+Sky Sports Golf Italy
+Sky Sport Bundesliga 1 HD
+SportsNet New York (SNY)
+Sky Sport Arena Italy
+Sky UNO Italy
+Sky Sport 1 NZ
+Sky Sport 2 NZ
+Sky Sport 3 NZ
+Sky Sport 4 NZ
+Sky Sport 5 NZ
+Sky Sport 6 NZ
+Sky Sport 7 NZ
+Sky Sport 8 NZ
+Sky Sport 9 NZ
+Sky Sport Select NZ
+SIC Portugal
+SEC Network USA
+SporTV2 Brasil
+SporTV3 Brasil
+Sport Klub HD Serbia
+Sportsnet Ontario
+Sportsnet One
+Sportsnet West
+Sportsnet East
+Sportsnet 360
+Sportsnet World
+SuperSport Grandstand
+SuperSport PSL
+SuperSport Premier league
+SuperSport LaLiga
+SuperSport Variety 1
+SuperSport Variety 2
+SuperSport Variety 3
+SuperSport Variety 4
+SuperSport Action
+SuperSport Rugby
+SuperSport Golf
+SuperSport Tennis
+SuperSport Motorsport
+Supersport Football
+SuperSport Cricket
+SuperSport MaXimo 1
+Sporting TV Portugal
+SportDigital Fussball
+Spectrum Sportsnet LA
+Sport1+ Germany
+Sport1 Germany
+S4C UK
+SAT.1 DE
+Sky Cinema Premiere UK
+Sky Cinema Select UK
+Sky Cinema Hits UK
+Sky Cinema Greats UK
+Sky Cinema Animation UK
+Sky Cinema Family UK
+Sky Cinema Action UK
+The Hallmark
+Sky Cinema Thriller UK
+The Hallmark
+Sky Cinema Collection Italy
+Sky Cinema Uno Italy
+Sky Cinema Action Italy
+8Sky Cinema Comedy Italy
+Sky Cinema Uno +24 Italy
+Sky Cinema Romance Italy
+Sky Cinema Family Italy
+Sky Cinema Due +24 Italy
+Sky Cinema Drama Italy
+8Sky Cinema Suspense Italy
+Sky Calcio 1 (251) Italy
+Sky Calcio 3 (253) Italy
+Sky Calcio 4 (254) Italy
+Sky Calcio 5 (255) Italy
+Sky Calcio 6 (256) Italy
+Sky Serie Italy
+StarzPlay CricLife 1 HD
+StarzPlay CricLife 2 HD
+StarzPlay CricLife 3 HD
+Sky Showcase UK
+Sky Arts UK
+Sky Comedy UK
+Sky Crime
+Sky History
+SSC Sport 1
+SSC Sport 3
+SSC Sport 4
+SSC Sport 5
+Sport 1 Israel
+Sport 2 Israel
+Sport 3 Israel
+Sport 4 Israel
+Sport 5 PLUS Israel
+Sport 5 Live Israel
+Sport 5 Star Israel
+Sport 5 Gold Israel
+Science Channel
+Showtime USA
+Showtime SHOxBET USA
+Starz
+Sky Witness HD
+Sixx DE
+Sky Atlantic
+SYFY USA
+Sundance TV
+SWR DE
+SUPER RTL DE
+SR Fernsehen DE
+TVN HD Poland
+TVP1 Poland
+TVP2 Poland
+Telecinco Spain
+TVE La 1 Spain
+TVE La 2 Spain
+TVI Portugal
+TVI Reality Portugal
+Teledeporte Spain (TDP)
+TYC Sports Argentina
+TVP Sport Poland
+TNT Brasil
+TNT Sports Argentina
+TNT Sports HD Chile
+Ten Sports PK
+TUDN USA
+Telemundo
+TBS USA
+TLC
+TNT USA
+TVA Sports 2
+Travel Channel
+TruTV USA
+TVLAND
+TCM USA
+TMC Channel USA
+The Food Network
+The Weather Channel
+TVP INFO
+TeenNick
+TV ONE USA
+TV2 Bornholm Denmark
+TV2 Denmark
+TV2 Zulu
+TV3+ Denmark
+TVO CA
+Tennis+ 1
+Tennis+ 2
+Tennis+ 3
+Tennis+ 4
+Tennis+ 6
+Tennis+ 7
+Tennis+ 8
+Tennis+ 11
+Tennis+ 13
+Tennis+ 14
+Tennis+ 15
+Univision
+Unimas
+Viaplay Xtra UK
+V Film Family
+VH1 USA
+Veronica NL Netherland
+VTV+ Uruguay
+VICE TV
+Willow Cricket
+WWE Network
+Win Sports+ Columbia
+WETV USA
+WDR DE
+YES Network USA
+Yes Movies Action Israel
+Yes Movies Kids Israel
+Yes Movies Comedy Israel
+Yas TV UAE
+Yes TV CA
+BBC 1 DE
+ZDF Info DE
+20 Mediaset Italy
+6'eren Denmark
+#0 Spain
+5 USA
+3sat DE

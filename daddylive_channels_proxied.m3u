@@ -1,0 +1,1025 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABC USA" tvg-name="ABC USA",ABC USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00N9XPz8_L1co1LLQCnlxE-
+#EXTINF:-1 tvg-id="A&E USA" tvg-name="A&E USA",A&E USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NjPRz8_Py9XKNSy0At3IRbQ
+#EXTINF:-1 tvg-id="AMC USA" tvg-name="AMC USA",AMC USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjQ2M9XPz8_L1co1LLQCPjRCK
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet",Animal Planet
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjQ1M9HPz8_L1co1LLQCPmBCL
+#EXTINF:-1 tvg-id="Astro SuperSport 1" tvg-name="Astro SuperSport 1",Astro SuperSport 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw2NjPVz8_Py9XKNSy0At3sRbg
+#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-name="Astro SuperSport 2",Astro SuperSport 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcw2NTPRz8_Py9XKNSy0Ate0RYQ
+#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-name="Astro SuperSport 3",Astro SuperSport 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw2NTPVz8_Py9XKNSy0At5ERcA
+#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-name="Astro SuperSport 4",Astro SuperSport 4
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw2NzPRz8_Py9XKNSy0At5wRcQ
+#EXTINF:-1 tvg-id="Alkass One" tvg-name="Alkass One",Alkass One
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlsY6ufm5-Xr5RqXWgAA-CUSmA
+#EXTINF:-1 tvg-id="Alkass Two" tvg-name="Alkass Two",Alkass Two
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlsY6efm5-Xr5RqXWgAA-DASmQ
+#EXTINF:-1 tvg-id="Alkass Three" tvg-name="Alkass Three",Alkass Three
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlsY6-fm5-Xr5RqXWgAA-DsSmg
+#EXTINF:-1 tvg-id="Alkass Four" tvg-name="Alkass Four",Alkass Four
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmluY6Ofm5-Xr5RqXWgAA-EYSmw
+#EXTINF:-1 tvg-id="ABS-CBN" tvg-name="ABS-CBN",ABS-CBN
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmluY6ufm5-Xr5RqXWgAA-FESnA
+#EXTINF:-1 tvg-id="Arena Sport 1 BiH" tvg-name="Arena Sport 1 BiH",Arena Sport 1 BiH
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03NLfVz8_Py9XKNSy0AtpQRbw
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 UAE" tvg-name="Abu Dhabi Sports 1 UAE",Abu Dhabi Sports 1 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80MDPRz8_Py9XKNSy0AteoRYA
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 UAE" tvg-name="Abu Dhabi Sports 2 UAE",Abu Dhabi Sports 2 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkY6ufm5-Xr5RqXWgAA97gSjw
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 Premium" tvg-name="Abu Dhabi Sports 1 Premium",Abu Dhabi Sports 1 Premium
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlY6ufm5-Xr5RqXWgAA-BASlw
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 Premium" tvg-name="Abu Dhabi Sports 2 Premium",Abu Dhabi Sports 2 Premium
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhka6Ofm5-Xr5RqXWgAA97kSjw
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket",Astro Cricket
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NDfRz8_Py9XKNSy0At7ARcg
+#EXTINF:-1 tvg-id="Antena 3 Spain" tvg-name="Antena 3 Spain",Antena 3 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhob6ufm5-Xr5RqXWgAA988SkQ
+#EXTINF:-1 tvg-id="ACC Network USA" tvg-name="ACC Network USA",ACC Network USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpmZ6Ofm5-Xr5RqXWgAA-CESmA
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim",Adult Swim
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40sTfVz8_Py9XKNSy0AqFAQ9A
+#EXTINF:-1 tvg-id="AXN Movies Portugal" tvg-name="AXN Movies Portugal",AXN Movies Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80NzfVz8_Py9XKNSy0AqEcQ8w
+#EXTINF:-1 tvg-id="Arte DE" tvg-name="Arte DE",Arte DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NTPVz8_Py9XKNSy0AqD0Q8g
+#EXTINF:-1 tvg-id="AXS TV USA" tvg-name="AXS TV USA",AXS TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzU2M9HPz8_L1co1LLQCP5hCR
+#EXTINF:-1 tvg-id="ABCNY USA" tvg-name="ABCNY USA",ABCNY USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NzPRz8_Py9XKNSy0AuBoRew
+#EXTINF:-1 tvg-id="beIN Sports MENA English 1" tvg-name="beIN Sports MENA English 1",beIN Sports MENA English 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80M9XPz8_L1co1LLQCmGBEx
+#EXTINF:-1 tvg-id="beIN Sports MENA English 2" tvg-name="beIN Sports MENA English 2",beIN Sports MENA English 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy0N9HPz8_L1co1LLQCnvBFB
+#EXTINF:-1 tvg-id="beIN Sports MENA 1" tvg-name="beIN Sports MENA 1",beIN Sports MENA 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhrq5-bn5evlGpdaAADm0RJi
+#EXTINF:-1 tvg-id="beIN Sports MENA 2" tvg-name="beIN Sports MENA 2",beIN Sports MENA 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhrp5-bn5evlGpdaAADm3BJj
+#EXTINF:-1 tvg-id="beIN Sports MENA 3" tvg-name="beIN Sports MENA 3",beIN Sports MENA 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhrr5-bn5evlGpdaAADm5xJk
+#EXTINF:-1 tvg-id="beIN Sports MENA 4" tvg-name="beIN Sports MENA 4",beIN Sports MENA 4
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWpro5-bn5evlGpdaAADm8hJl
+#EXTINF:-1 tvg-id="beIN Sports MENA 5" tvg-name="beIN Sports MENA 5",beIN Sports MENA 5
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWprq5-bn5evlGpdaAADm_RJm
+#EXTINF:-1 tvg-id="beIN Sports MENA 6" tvg-name="beIN Sports MENA 6",beIN Sports MENA 6
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWprp5-bn5evlGpdaAADnCBJn
+#EXTINF:-1 tvg-id="beIN Sports MENA 7" tvg-name="beIN Sports MENA 7",beIN Sports MENA 7
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWprr5-bn5evlGpdaAADnExJo
+#EXTINF:-1 tvg-id="beIN Sports MENA Premium 1" tvg-name="beIN Sports MENA Premium 1",beIN Sports MENA Premium 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy0t9HPz8_L1co1LLQCY9hDF
+#EXTINF:-1 tvg-id="beIN Sports MENA Premium 2" tvg-name="beIN Sports MENA Premium 2",beIN Sports MENA Premium 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy0t9XPz8_L1co1LLQCZARDG
+#EXTINF:-1 tvg-id="beIN Sports MENA Premium 3" tvg-name="beIN Sports MENA Premium 3",beIN Sports MENA Premium 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw0NDPRz8_Py9XKNSy0Ap6AQ5Q
+#EXTINF:-1 tvg-id="beIN SPORTS 1 Turkey" tvg-name="beIN SPORTS 1 Turkey",beIN SPORTS 1 Turkey
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc82M9HPz8_L1co1LLQCnrhFA
+#EXTINF:-1 tvg-id="beIN SPORTS 4 Turkey" tvg-name="beIN SPORTS 4 Turkey",beIN SPORTS 4 Turkey
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83M9XPz8_L1co1LLQCn5RFF
+#EXTINF:-1 tvg-id="BeIN Sports HD Qatar" tvg-name="BeIN Sports HD Qatar",BeIN Sports HD Qatar
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03NLfRz8_Py9XKNSy0AtokRbg
+#EXTINF:-1 tvg-id="beIN SPORTS Australia 1" tvg-name="beIN SPORTS Australia 1",beIN SPORTS Australia 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sDfVz8_Py9XKNSy0AqD4Q8g
+#EXTINF:-1 tvg-id="beIN SPORTS Australia 2" tvg-name="beIN SPORTS Australia 2",beIN SPORTS Australia 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sjfRz8_Py9XKNSy0AqEkQ8w
+#EXTINF:-1 tvg-id="beIN SPORTS Australia 3" tvg-name="beIN SPORTS Australia 3",beIN SPORTS Australia 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sjfVz8_Py9XKNSy0AqFQQ9A
+#EXTINF:-1 tvg-id="Barca TV Spain" tvg-name="Barca TV Spain",Barca TV Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc02NjPRz8_Py9XKNSy0AtgsRYw
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang",Boomerang
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmplY6Ofm5-Xr5RqXWgAA-DUSmg
+#EXTINF:-1 tvg-id="BNT 1 Bulgaria" tvg-name="BNT 1 Bulgaria",BNT 1 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MzfRz8_Py9XKNSy0AtmYRaw
+#EXTINF:-1 tvg-id="BNT 2 Bulgaria" tvg-name="BNT 2 Bulgaria",BNT 2 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MzfVz8_Py9XKNSy0AtnERbA
+#EXTINF:-1 tvg-id="BNT 3 Bulgaria" tvg-name="BNT 3 Bulgaria",BNT 3 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MLfRz8_Py9XKNSy0AtnwRbQ
+#EXTINF:-1 tvg-id="BR Fernsehen DE" tvg-name="BR Fernsehen DE",BR Fernsehen DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NzfVz8_Py9XKNSy0AqF8Q9Q
+#EXTINF:-1 tvg-id="bTV Bulgaria" tvg-name="bTV Bulgaria",bTV Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MLfVz8_Py9XKNSy0AtocRbg
+#EXTINF:-1 tvg-id="bTV Action Bulgaria" tvg-name="bTV Action Bulgaria",bTV Action Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sDPVz8_Py9XKNSy0AtjsRZw
+#EXTINF:-1 tvg-id="bTV Lady Bulgaria" tvg-name="bTV Lady Bulgaria",bTV Lady Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sTPRz8_Py9XKNSy0AtlwRag
+#EXTINF:-1 tvg-id="BBC America (BBCA)" tvg-name="BBC America (BBCA)",BBC America (BBCA)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NTPVz8_Py9XKNSy0At5MRcA
+#EXTINF:-1 tvg-id="BET USA" tvg-name="BET USA",BET USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NzPRz8_Py9XKNSy0At54RcQ
+#EXTINF:-1 tvg-id="Bravo USA" tvg-name="Bravo USA",Bravo USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjQ3M9XPz8_L1co1LLQCPuRCO
+#EXTINF:-1 tvg-id="BBC News Channel HD" tvg-name="BBC News Channel HD",BBC News Channel HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGptY6ufm5-Xr5RqXWgAA-BkSmA
+#EXTINF:-1 tvg-id="BBC One UK" tvg-name="BBC One UK",BBC One UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc41NzfRz8_Py9XKNSy0AqDgQ8g
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK",BBC Two UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGpua6-fm5-Xr5RqXWgAA-A8Slw
+#EXTINF:-1 tvg-id="BBC Three UK" tvg-name="BBC Three UK",BBC Three UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc41NLfRz8_Py9XKNSy0AqE4Q9A
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK",BBC Four UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGpta6ufm5-Xr5RqXWgAA-CUSmQ
+#EXTINF:-1 tvg-id="Cuatro Spain" tvg-name="Cuatro Spain",Cuatro Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhqb6ufm5-Xr5RqXWgAA9_sSlQ
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK",Channel 4 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc41NTfRz8_Py9XKNSy0AtisRZg
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK",Channel 5 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NTfVz8_Py9XKNSy0At88RdQ
+#EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" tvg-name="CBS Sports Network (CBSSN)",CBS Sports Network (CBSSN)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NLPRz8_Py9XKNSy0At7QRcw
+#EXTINF:-1 tvg-id="Canal 11 Portugal" tvg-name="Canal 11 Portugal",Canal 11 Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NDPRz8_Py9XKNSy0AqAQQ7Q
+#EXTINF:-1 tvg-id="Canal+ Premium Poland" tvg-name="Canal+ Premium Poland",Canal+ Premium Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpqZ6efm5-Xr5RqXWgAA-CoSmQ
+#EXTINF:-1 tvg-id="Canal+ Seriale Poland" tvg-name="Canal+ Seriale Poland",Canal+ Seriale Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03NDfRz8_Py9XKNSy0AtjERZg
+#EXTINF:-1 tvg-id="Canal+ Sport 1 Afrique" tvg-name="Canal+ Sport 1 Afrique",Canal+ Sport 1 Afrique
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00szPRz8_Py9XKNSy0AqGkQ9g
+#EXTINF:-1 tvg-id="Canal+ Sport 2 Afrique" tvg-name="Canal+ Sport 2 Afrique",Canal+ Sport 2 Afrique
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00szPVz8_Py9XKNSy0AqHQQ9w
+#EXTINF:-1 tvg-id="Canal+ Sport 3 Afrique" tvg-name="Canal+ Sport 3 Afrique",Canal+ Sport 3 Afrique
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sLPRz8_Py9XKNSy0AqH8Q-A
+#EXTINF:-1 tvg-id="Canal+ Sport 4 Afrique" tvg-name="Canal+ Sport 4 Afrique",Canal+ Sport 4 Afrique
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sLPVz8_Py9XKNSy0AqIoQ-Q
+#EXTINF:-1 tvg-id="Canal+ Sport 5 Afrique" tvg-name="Canal+ Sport 5 Afrique",Canal+ Sport 5 Afrique
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sDfRz8_Py9XKNSy0AqDMQ8Q
+#EXTINF:-1 tvg-id="CANAL9 Denmark" tvg-name="CANAL9 Denmark",CANAL9 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhiY6ufm5-Xr5RqXWgAA9_4SlQ
+#EXTINF:-1 tvg-id="Combate Brasil" tvg-name="Combate Brasil",Combate Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0s9XPz8_L1co1LLQCmiBE7
+#EXTINF:-1 tvg-id="C More Football Sweden" tvg-name="C More Football Sweden",C More Football Sweden
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzU3M9XPz8_L1co1LLQCQHRCW
+#EXTINF:-1 tvg-id="Cosmote Sport 1 HD" tvg-name="Cosmote Sport 1 HD",Cosmote Sport 1 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkZ6efm5-Xr5RqXWgAA99sSkg
+#EXTINF:-1 tvg-id="Cosmote Sport 2 HD" tvg-name="Cosmote Sport 2 HD",Cosmote Sport 2 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkZ6-fm5-Xr5RqXWgAA9-YSkw
+#EXTINF:-1 tvg-id="Cosmote Sport 3 HD" tvg-name="Cosmote Sport 3 HD",Cosmote Sport 3 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmZ6Ofm5-Xr5RqXWgAA9_ESlA
+#EXTINF:-1 tvg-id="Cosmote Sport 4 HD" tvg-name="Cosmote Sport 4 HD",Cosmote Sport 4 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmZ6ufm5-Xr5RqXWgAA9_wSlQ
+#EXTINF:-1 tvg-id="Cosmote Sport 5 HD" tvg-name="Cosmote Sport 5 HD",Cosmote Sport 5 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmZ6efm5-Xr5RqXWgAA-AcSlg
+#EXTINF:-1 tvg-id="Cosmote Sport 6 HD" tvg-name="Cosmote Sport 6 HD",Cosmote Sport 6 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmZ6-fm5-Xr5RqXWgAA-BISlw
+#EXTINF:-1 tvg-id="Cosmote Sport 7 HD" tvg-name="Cosmote Sport 7 HD",Cosmote Sport 7 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlZ6Ofm5-Xr5RqXWgAA-B0SmA
+#EXTINF:-1 tvg-id="Cosmote Sport 8 HD" tvg-name="Cosmote Sport 8 HD",Cosmote Sport 8 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlZ6ufm5-Xr5RqXWgAA-CgSmQ
+#EXTINF:-1 tvg-id="Cosmote Sport 9 HD" tvg-name="Cosmote Sport 9 HD",Cosmote Sport 9 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkb6Ofm5-Xr5RqXWgAA99ESkQ
+#EXTINF:-1 tvg-id="Channel 9 Israel" tvg-name="Channel 9 Israel",Channel 9 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NzPRz8_Py9XKNSy0At-gRdw
+#EXTINF:-1 tvg-id="Channel 11 Israel" tvg-name="Channel 11 Israel",Channel 11 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NLPRz8_Py9XKNSy0At_4ReQ
+#EXTINF:-1 tvg-id="Channel 12 Israel" tvg-name="Channel 12 Israel",Channel 12 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NLPVz8_Py9XKNSy0AuAkReg
+#EXTINF:-1 tvg-id="Channel 13 Israel" tvg-name="Channel 13 Israel",Channel 13 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NDfVz8_Py9XKNSy0At70Rcw
+#EXTINF:-1 tvg-id="Channel 14 Israel" tvg-name="Channel 14 Israel",Channel 14 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NjfRz8_Py9XKNSy0At8gRdA
+#EXTINF:-1 tvg-id="C More Series Sweden" tvg-name="C More Series Sweden",C More Series Sweden
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLQxN9HPz8_L1co1LLQCP5RCR
+#EXTINF:-1 tvg-id="COZI TV USA" tvg-name="COZI TV USA",COZI TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NLPRz8_Py9XKNSy0AqHYQ9w
+#EXTINF:-1 tvg-id="CMT USA" tvg-name="CMT USA",CMT USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpmY6-fm5-Xr5RqXWgAA-CoSmQ
+#EXTINF:-1 tvg-id="CW USA" tvg-name="CW USA",CW USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NDPRz8_Py9XKNSy0At1wRaw
+#EXTINF:-1 tvg-id="CNBC USA" tvg-name="CNBC USA",CNBC USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NLPVz8_Py9XKNSy0At78RdA
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central",Comedy Central
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NDfRz8_Py9XKNSy0At2gRbA
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network",Cartoon Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjY0t9XPz8_L1co1LLQCP8xCT
+#EXTINF:-1 tvg-id="CNN USA" tvg-name="CNN USA",CNN USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjU1M9XPz8_L1co1LLQCP0xCQ
+#EXTINF:-1 tvg-id="Cinemax USA" tvg-name="Cinemax USA",Cinemax USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NTfRz8_Py9XKNSy0At9wRdg
+#EXTINF:-1 tvg-id="CTV Canada" tvg-name="CTV Canada",CTV Canada
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80MjPRz8_Py9XKNSy0At5kRcA
+#EXTINF:-1 tvg-id="CTV 2 Canada" tvg-name="CTV 2 Canada",CTV 2 Canada
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLYwt9HPz8_L1co1LLQCQKRCX
+#EXTINF:-1 tvg-id="Crime+ Investigation USA" tvg-name="Crime+ Investigation USA",Crime+ Investigation USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmplZ6ufm5-Xr5RqXWgAA-FgSnQ
+#EXTINF:-1 tvg-id="Comet USA" tvg-name="Comet USA",Comet USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSzN9HPz8_L1co1LLQCQQRCZ
+#EXTINF:-1 tvg-id="Cooking Channel USA" tvg-name="Cooking Channel USA",Cooking Channel USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlma6-fm5-Xr5RqXWgAA-GYSng
+#EXTINF:-1 tvg-id="Cleo TV" tvg-name="Cleo TV",Cleo TV
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80NTfVz8_Py9XKNSy0AtjoRZw
+#EXTINF:-1 tvg-id="C SPAN 1" tvg-name="C SPAN 1",C SPAN 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc81NDfRz8_Py9XKNSy0AtjMRZg
+#EXTINF:-1 tvg-id="CBSNY USA" tvg-name="CBSNY USA",CBSNY USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NzPVz8_Py9XKNSy0AuCURfA
+#EXTINF:-1 tvg-id="Citytv" tvg-name="Citytv",Citytv
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLYwN9XPz8_L1co1LLQCP3BCQ
+#EXTINF:-1 tvg-id="CBC CA" tvg-name="CBC CA",CBC CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhgb6efm5-Xr5RqXWgAA-AESlQ
+#EXTINF:-1 tvg-id="DAZN 3 Spain" tvg-name="DAZN 3 Spain",DAZN 3 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01MzPVz8_Py9XKNSy0At-YRdw
+#EXTINF:-1 tvg-id="DAZN 4 Spain" tvg-name="DAZN 4 Spain",DAZN 4 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01MLPRz8_Py9XKNSy0At_EReA
+#EXTINF:-1 tvg-id="DR1 Denmark" tvg-name="DR1 Denmark",DR1 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhgY6ufm5-Xr5RqXWgAA99ISkQ
+#EXTINF:-1 tvg-id="DR2 Denmark" tvg-name="DR2 Denmark",DR2 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhgY6efm5-Xr5RqXWgAA990Skg
+#EXTINF:-1 tvg-id="Digi Sport 1 Romania" tvg-name="Digi Sport 1 Romania",Digi Sport 1 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTQwM9HPz8_L1co1LLQCPeRCI
+#EXTINF:-1 tvg-id="Digi Sport 2 Romania" tvg-name="Digi Sport 2 Romania",Digi Sport 2 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTQwM9XPz8_L1co1LLQCPhBCJ
+#EXTINF:-1 tvg-id="Digi Sport 3 Romania" tvg-name="Digi Sport 3 Romania",Digi Sport 3 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTQyM9HPz8_L1co1LLQCPjxCK
+#EXTINF:-1 tvg-id="Digi Sport 4 Romania" tvg-name="Digi Sport 4 Romania",Digi Sport 4 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTQyM9XPz8_L1co1LLQCPmhCL
+#EXTINF:-1 tvg-id="Diema Sport Bulgaria" tvg-name="Diema Sport Bulgaria",Diema Sport Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MTPVz8_Py9XKNSy0Atk8RaQ
+#EXTINF:-1 tvg-id="Diema Sport 2 Bulgaria" tvg-name="Diema Sport 2 Bulgaria",Diema Sport 2 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MzPRz8_Py9XKNSy0AtloRag
+#EXTINF:-1 tvg-id="Diema Sport 3 Bulgaria" tvg-name="Diema Sport 3 Bulgaria",Diema Sport 3 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MzPVz8_Py9XKNSy0AtmURaw
+#EXTINF:-1 tvg-id="Diema Bulgaria" tvg-name="Diema Bulgaria",Diema Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00sjPRz8_Py9XKNSy0AqD0Q8g
+#EXTINF:-1 tvg-id="Diema Family Bulgaria" tvg-name="Diema Family Bulgaria",Diema Family Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sTPVz8_Py9XKNSy0AtmcRaw
+#EXTINF:-1 tvg-id="Dubai Sports 1 UAE" tvg-name="Dubai Sports 1 UAE",Dubai Sports 1 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmY6Ofm5-Xr5RqXWgAA99kSkg
+#EXTINF:-1 tvg-id="Dubai Sports 2 UAE" tvg-name="Dubai Sports 2 UAE",Dubai Sports 2 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmY6ufm5-Xr5RqXWgAA9-QSkw
+#EXTINF:-1 tvg-id="Dubai Sports 3 UAE" tvg-name="Dubai Sports 3 UAE",Dubai Sports 3 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmY6efm5-Xr5RqXWgAA9-8SlA
+#EXTINF:-1 tvg-id="Dubai Racing 1 UAE" tvg-name="Dubai Racing 1 UAE",Dubai Racing 1 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmY6-fm5-Xr5RqXWgAA9_oSlQ
+#EXTINF:-1 tvg-id="Dubai Racing 2 UAE" tvg-name="Dubai Racing 2 UAE",Dubai Racing 2 UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlY6Ofm5-Xr5RqXWgAA-AUSlg
+#EXTINF:-1 tvg-id="DSTV kykNET & kie" tvg-name="DSTV kykNET & kie",DSTV kykNET & kie
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2MLPRz8_Py9XKNSy0AqGsQ9g
+#EXTINF:-1 tvg-id="Discovery Life Channel" tvg-name="Discovery Life Channel",Discovery Life Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NDfVz8_Py9XKNSy0At3MRbQ
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel",Disney Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NjfRz8_Py9XKNSy0At34Rbg
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel",Discovery Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NjfVz8_Py9XKNSy0At4kRbw
+#EXTINF:-1 tvg-id="Discovery Family" tvg-name="Discovery Family",Discovery Family
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpma6-fm5-Xr5RqXWgAA-DYSmg
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD",Disney XD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NTfRz8_Py9XKNSy0At5QRcA
+#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America",Destination America
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpka6ufm5-Xr5RqXWgAA9_QSlA
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney JR",Disney JR
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzUyN9HPz8_L1co1LLQCP5RCR
+#EXTINF:-1 tvg-id="Dave" tvg-name="Dave",Dave
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGptY6Ofm5-Xr5RqXWgAA-A4Slw
+#EXTINF:-1 tvg-id="ESPN2 USA" tvg-name="ESPN2 USA",ESPN2 USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01M9XPz8_L1co1LLQCmLBEz
+#EXTINF:-1 tvg-id="ESPNU USA" tvg-name="ESPNU USA",ESPNU USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NzfRz8_Py9XKNSy0At6oRcg
+#EXTINF:-1 tvg-id="ESPN 1 NL" tvg-name="ESPN 1 NL",ESPN 1 NL
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NLfVz8_Py9XKNSy0AuBMRew
+#EXTINF:-1 tvg-id="ESPN 2 NL" tvg-name="ESPN 2 NL",ESPN 2 NL
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tzPRz8_Py9XKNSy0At_4ReQ
+#EXTINF:-1 tvg-id="EuroSport 1 UK" tvg-name="EuroSport 1 UK",EuroSport 1 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00M9XPz8_L1co1LLQCmABEv
+#EXTINF:-1 tvg-id="EuroSport 2 UK" tvg-name="EuroSport 2 UK",EuroSport 2 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc02M9HPz8_L1co1LLQCmCxEw
+#EXTINF:-1 tvg-id="EuroSport 2 Spain" tvg-name="EuroSport 2 Spain",EuroSport 2 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc02NTPVz8_Py9XKNSy0AqCMQ8A
+#EXTINF:-1 tvg-id="EuroSport 1 Italy" tvg-name="EuroSport 1 Italy",EuroSport 1 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MLfRz8_Py9XKNSy0AtrARcQ
+#EXTINF:-1 tvg-id="EuroSport 2 Italy" tvg-name="EuroSport 2 Italy",EuroSport 2 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MLfVz8_Py9XKNSy0AtrsRcg
+#EXTINF:-1 tvg-id="Eurosport 1 Bulgaria" tvg-name="Eurosport 1 Bulgaria",Eurosport 1 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MLPVz8_Py9XKNSy0AtnsRbQ
+#EXTINF:-1 tvg-id="Eurosport 2 Bulgaria" tvg-name="Eurosport 2 Bulgaria",Eurosport 2 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MDfRz8_Py9XKNSy0AtiQRZQ
+#EXTINF:-1 tvg-id="ESPN Premium Argentina" tvg-name="ESPN Premium Argentina",ESPN Premium Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc40tzPVz8_Py9XKNSy0AtnARbA
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil",ESPN Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy0M9XPz8_L1co1LLQCnuxFB
+#EXTINF:-1 tvg-id="ESPN2 Brasil" tvg-name="ESPN2 Brasil",ESPN2 Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy2M9HPz8_L1co1LLQCmOxE0
+#EXTINF:-1 tvg-id="ESPN3 Brasil" tvg-name="ESPN3 Brasil",ESPN3 Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2M9XPz8_L1co1LLQCYsxC_
+#EXTINF:-1 tvg-id="ESPN4 Brasil" tvg-name="ESPN4 Brasil",ESPN4 Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy1M9XPz8_L1co1LLQCYyRDB
+#EXTINF:-1 tvg-id="ESPN SUR" tvg-name="ESPN SUR",ESPN SUR
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw1NLPVz8_Py9XKNSy0AqDMQ8g
+#EXTINF:-1 tvg-id="ESPN2 SUR" tvg-name="ESPN2 SUR",ESPN2 SUR
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcw1NDfRz8_Py9XKNSy0AteURYA
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes",ESPN Deportes
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NTfVz8_Py9XKNSy0At-cRdw
+#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews",ESPNews
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSws9HPz8_L1co1LLQCQFxCW
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television",E! Entertainment Television
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NTfVz8_Py9XKNSy0At58RcQ
+#EXTINF:-1 tvg-id="E4 Channel" tvg-name="E4 Channel",E4 Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NjPVz8_Py9XKNSy0AqCMQ8A
+#EXTINF:-1 tvg-id="Fox Sports 2 USA" tvg-name="Fox Sports 2 USA",Fox Sports 2 USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81NLfRz8_Py9XKNSy0AuCQRfA
+#EXTINF:-1 tvg-id="FOX Soccer Plus" tvg-name="FOX Soccer Plus",FOX Soccer Plus
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NzfRz8_Py9XKNSy0AqGwQ9g
+#EXTINF:-1 tvg-id="Fox Cricket" tvg-name="Fox Cricket",Fox Cricket
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NLPVz8_Py9XKNSy0AqGUQ9g
+#EXTINF:-1 tvg-id="FOX Deportes USA" tvg-name="FOX Deportes USA",FOX Deportes USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkY6-fm5-Xr5RqXWgAA9_4SlQ
+#EXTINF:-1 tvg-id="FOX Sports 502 AU" tvg-name="FOX Sports 502 AU",FOX Sports 502 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy2MDPRz8_Py9XKNSy0At7URcg
+#EXTINF:-1 tvg-id="FOX Sports 503 AU" tvg-name="FOX Sports 503 AU",FOX Sports 503 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy2MDPVz8_Py9XKNSy0At8ARcw
+#EXTINF:-1 tvg-id="FOX Sports 504 AU" tvg-name="FOX Sports 504 AU",FOX Sports 504 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy2MjPRz8_Py9XKNSy0At8sRdA
+#EXTINF:-1 tvg-id="FOX Sports 505 AU" tvg-name="FOX Sports 505 AU",FOX Sports 505 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy2MjPVz8_Py9XKNSy0Atj0RZw
+#EXTINF:-1 tvg-id="FOX Sports 506 AU" tvg-name="FOX Sports 506 AU",FOX Sports 506 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy2MTPRz8_Py9XKNSy0AtkgRaA
+#EXTINF:-1 tvg-id="FOX Sports 507 AU" tvg-name="FOX Sports 507 AU",FOX Sports 507 AU
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy2MTPVz8_Py9XKNSy0AtlMRaQ
+#EXTINF:-1 tvg-id="Fox Sports Argentina" tvg-name="Fox Sports Argentina",Fox Sports Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80tzPVz8_Py9XKNSy0AtqQRcA
+#EXTINF:-1 tvg-id="Fox Sports 2 Argentina" tvg-name="Fox Sports 2 Argentina",Fox Sports 2 Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80tLPRz8_Py9XKNSy0Atq8RcQ
+#EXTINF:-1 tvg-id="Fox Sports 3 Argentina" tvg-name="Fox Sports 3 Argentina",Fox Sports 3 Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzS0s9XPz8_L1co1LLQCQYxCc
+#EXTINF:-1 tvg-id="Fox Sports Premium MX" tvg-name="Fox Sports Premium MX",Fox Sports Premium MX
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2MDfRz8_Py9XKNSy0AqB8Q7w
+#EXTINF:-1 tvg-id="FilmBox Premium Poland" tvg-name="FilmBox Premium Poland",FilmBox Premium Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmppZ6Ofm5-Xr5RqXWgAA-EASmw
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network",Fight Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81NzfVz8_Py9XKNSy0AuBkRew
+#EXTINF:-1 tvg-id="Fox Business" tvg-name="Fox Business",Fox Business
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40szfVz8_Py9XKNSy0AqGYQ9g
+#EXTINF:-1 tvg-id="FOX HD Bulgaria" tvg-name="FOX HD Bulgaria",FOX HD Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sjPVz8_Py9XKNSy0AtlERaQ
+#EXTINF:-1 tvg-id="FX USA" tvg-name="FX USA",FX USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NzfVz8_Py9XKNSy0At7URcw
+#EXTINF:-1 tvg-id="FXX USA" tvg-name="FXX USA",FXX USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40sLfRz8_Py9XKNSy0AqHEQ9w
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform",Freeform
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NDPVz8_Py9XKNSy0At2cRbA
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News",Fox News
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NzPVz8_Py9XKNSy0At9kRdg
+#EXTINF:-1 tvg-id="FX Movie Channel" tvg-name="FX Movie Channel",FX Movie Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tDPVz8_Py9XKNSy0At8cRdA
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK",Film4 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sLPRz8_Py9XKNSy0AtqIRcA
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV",Fashion TV
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NTPRz8_Py9XKNSy0AqEoQ8w
+#EXTINF:-1 tvg-id="FETV - Family Entertainment Television" tvg-name="FETV - Family Entertainment Television",FETV - Family Entertainment Television
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpsa6ufm5-Xr5RqXWgAA-AESlQ
+#EXTINF:-1 tvg-id="FOXNY USA" tvg-name="FOXNY USA",FOXNY USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NLPRz8_Py9XKNSy0AuDARfQ
+#EXTINF:-1 tvg-id="Fox Weather Channel" tvg-name="Fox Weather Channel",Fox Weather Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NTfVz8_Py9XKNSy0AuBsRew
+#EXTINF:-1 tvg-id="GOL PLAY Spain" tvg-name="GOL PLAY Spain",GOL PLAY Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhob6Ofm5-Xr5RqXWgAA98QSkA
+#EXTINF:-1 tvg-id="Game Show Network" tvg-name="Game Show Network",Game Show Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjQ0t9XPz8_L1co1LLQCP2xCR
+#EXTINF:-1 tvg-id="Gol Mundial 1" tvg-name="Gol Mundial 1",Gol Mundial 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSyN9HPz8_L1co1LLQCP4RCR
+#EXTINF:-1 tvg-id="Gold UK" tvg-name="Gold UK",Gold UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80szPVz8_Py9XKNSy0AqI4Q-Q
+#EXTINF:-1 tvg-id="Galavisi贸n USA" tvg-name="Galavisi贸n USA",Galavisi贸n USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzU2M9XPz8_L1co1LLQCP8RCS
+#EXTINF:-1 tvg-id="CBC CA" tvg-name="CBC CA",CBC CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80sLfVz8_Py9XKNSy0AuFIRgA
+#EXTINF:-1 tvg-id="Grit Channel" tvg-name="Grit Channel",Grit Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpsa6efm5-Xr5RqXWgAA-AwSlg
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP",Globo SP
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NDPRz8_Py9XKNSy0At9gRdQ
+#EXTINF:-1 tvg-id="Globo RIO" tvg-name="Globo RIO",Globo RIO
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NDPVz8_Py9XKNSy0At-MRdg
+#EXTINF:-1 tvg-id="Global CA" tvg-name="Global CA",Global CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhib6efm5-Xr5RqXWgAA-C0SmQ
+#EXTINF:-1 tvg-id="The Hallmark Channel" tvg-name="The Hallmark Channel",The Hallmark Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NDPRz8_Py9XKNSy0At3QRbQ
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysterie" tvg-name="Hallmark Movies & Mysterie",Hallmark Movies & Mysterie
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40szfRz8_Py9XKNSy0AqFsQ9Q
+#EXTINF:-1 tvg-id="HBO USA" tvg-name="HBO USA",HBO USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NDPVz8_Py9XKNSy0At38Rbg
+#EXTINF:-1 tvg-id="HBO2 USA" tvg-name="HBO2 USA",HBO2 USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSws9XPz8_L1co1LLQCQVhCb
+#EXTINF:-1 tvg-id="HBO Comedy USA" tvg-name="HBO Comedy USA",HBO Comedy USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSwN9HPz8_L1co1LLQCP_xCT
+#EXTINF:-1 tvg-id="HBO Family USA" tvg-name="HBO Family USA",HBO Family USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSwN9XPz8_L1co1LLQCQChCU
+#EXTINF:-1 tvg-id="HBO Latino USA" tvg-name="HBO Latino USA",HBO Latino USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSyN9HPz8_L1co1LLQCQFRCV
+#EXTINF:-1 tvg-id="HBO Signature USA" tvg-name="HBO Signature USA",HBO Signature USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSyN9XPz8_L1co1LLQCQIBCW
+#EXTINF:-1 tvg-id="HBO Zone USA" tvg-name="HBO Zone USA",HBO Zone USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSxN9HPz8_L1co1LLQCQKxCX
+#EXTINF:-1 tvg-id="HBO Poland" tvg-name="HBO Poland",HBO Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03NLPVz8_Py9XKNSy0AtogRbg
+#EXTINF:-1 tvg-id="History USA" tvg-name="History USA",History USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjY2M9HPz8_L1co1LLQCPmhCL
+#EXTINF:-1 tvg-id="Headline News" tvg-name="Headline News",Headline News
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc42NjPVz8_Py9XKNSy0Ap_MQ7A
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV",HGTV
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tjPRz8_Py9XKNSy0At9IRdQ
+#EXTINF:-1 tvg-id="HOT3 Israel" tvg-name="HOT3 Israel",HOT3 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NjfVz8_Py9XKNSy0AqDEQ8Q
+#EXTINF:-1 tvg-id="HR Fernsehen DE" tvg-name="HR Fernsehen DE",HR Fernsehen DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NDPRz8_Py9XKNSy0AqB4Q7w
+#EXTINF:-1 tvg-id="ITV 1 UK" tvg-name="ITV 1 UK",ITV 1 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGpsa6Ofm5-Xr5RqXWgAA98ISkA
+#EXTINF:-1 tvg-id="ITV 2 UK" tvg-name="ITV 2 UK",ITV 2 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NDfVz8_Py9XKNSy0At6MRcQ
+#EXTINF:-1 tvg-id="ITV 3 UK" tvg-name="ITV 3 UK",ITV 3 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NjfRz8_Py9XKNSy0At64Rcg
+#EXTINF:-1 tvg-id="ITV 4 UK" tvg-name="ITV 4 UK",ITV 4 UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc41NjfVz8_Py9XKNSy0AqBcQ7w
+#EXTINF:-1 tvg-id="Italia 1 Italy" tvg-name="Italia 1 Italy",Italia 1 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MTfRz8_Py9XKNSy0AtmwRaw
+#EXTINF:-1 tvg-id="Investigation Discovery (ID USA)" tvg-name="Investigation Discovery (ID USA)",Investigation Discovery (ID USA)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NTPRz8_Py9XKNSy0AtgcRYw
+#EXTINF:-1 tvg-id="ION USA" tvg-name="ION USA",ION USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NTPVz8_Py9XKNSy0AthIRZA
+#EXTINF:-1 tvg-id="IFC TV USA" tvg-name="IFC TV USA",IFC TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzUzN9HPz8_L1co1LLQCQERCV
+#EXTINF:-1 tvg-id="Kanal 4 Denmark" tvg-name="Kanal 4 Denmark",Kanal 4 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhgY6-fm5-Xr5RqXWgAA9-gSkw
+#EXTINF:-1 tvg-id="Kanal 5 Denmark" tvg-name="Kanal 5 Denmark",Kanal 5 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhiY6Ofm5-Xr5RqXWgAA9_MSlA
+#EXTINF:-1 tvg-id="Kabel Eins (Kabel 1) DE" tvg-name="Kabel Eins (Kabel 1) DE",Kabel Eins (Kabel 1) DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NDfVz8_Py9XKNSy0AqB0Q7w
+#EXTINF:-1 tvg-id="L'Equipe France" tvg-name="L'Equipe France",L'Equipe France
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpmY6ufm5-Xr5RqXWgAA-BQSlw
+#EXTINF:-1 tvg-id="La Sexta Spain" tvg-name="La Sexta Spain",La Sexta Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhqb6Ofm5-Xr5RqXWgAA9_ASlA
+#EXTINF:-1 tvg-id="Liverpool TV (LFC TV)" tvg-name="Liverpool TV (LFC TV)",Liverpool TV (LFC TV)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2MzPRz8_Py9XKNSy0AqFUQ9A
+#EXTINF:-1 tvg-id="Lifetime Network" tvg-name="Lifetime Network",Lifetime Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NzPRz8_Py9XKNSy0Ath0RZQ
+#EXTINF:-1 tvg-id="Lifetime Movies Network" tvg-name="Lifetime Movies Network",Lifetime Movies Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjS0s9XPz8_L1co1LLQCQLxCY
+#EXTINF:-1 tvg-id="La7 Italy" tvg-name="La7 Italy",La7 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MTfVz8_Py9XKNSy0AtncRbA
+#EXTINF:-1 tvg-id="LA7d HD+ Italy" tvg-name="LA7d HD+ Italy",LA7d HD+ Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MzfRz8_Py9XKNSy0AtoIRbQ
+#EXTINF:-1 tvg-id="Match Football 1 Russia" tvg-name="Match Football 1 Russia",Match Football 1 Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw2NzfRz8_Py9XKNSy0AqAYQ7g
+#EXTINF:-1 tvg-id="Match Football 2 Russia" tvg-name="Match Football 2 Russia",Match Football 2 Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw2NzfVz8_Py9XKNSy0AqBEQ7w
+#EXTINF:-1 tvg-id="Match Football 3 Russia" tvg-name="Match Football 3 Russia",Match Football 3 Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw2NLfRz8_Py9XKNSy0AqBwQ8A
+#EXTINF:-1 tvg-id="Match Premier Russia" tvg-name="Match Premier Russia",Match Premier Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03NjfVz8_Py9XKNSy0AqEkQ8w
+#EXTINF:-1 tvg-id="Match TV Russia" tvg-name="Match TV Russia",Match TV Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw2NzPVz8_Py9XKNSy0AqAUQ7g
+#EXTINF:-1 tvg-id="МАТЧ! БОЕЦ Russia" tvg-name="МАТЧ! БОЕЦ Russia",МАТЧ! БОЕЦ Russia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjS1N9XPz8_L1co1LLQCQDxCV
+#EXTINF:-1 tvg-id="Movistar Laliga" tvg-name="Movistar Laliga",Movistar Laliga
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1M9HPz8_L1co1LLQCmURE2
+#EXTINF:-1 tvg-id="Movistar Liga de Campeones" tvg-name="Movistar Liga de Campeones",Movistar Liga de Campeones
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MTfVz8_Py9XKNSy0At8QRdA
+#EXTINF:-1 tvg-id="Movistar Deportes 2 Spain" tvg-name="Movistar Deportes 2 Spain",Movistar Deportes 2 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MLfRz8_Py9XKNSy0At-URdw
+#EXTINF:-1 tvg-id="Movistar Deportes 3 Spain" tvg-name="Movistar Deportes 3 Spain",Movistar Deportes 3 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhqZ6efm5-Xr5RqXWgAA9_oSlQ
+#EXTINF:-1 tvg-id="Movistar Golf Spain" tvg-name="Movistar Golf Spain",Movistar Golf Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhpZ6Ofm5-Xr5RqXWgAA-BASlw
+#EXTINF:-1 tvg-id="Motowizja Poland" tvg-name="Motowizja Poland",Motowizja Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpoZ6-fm5-Xr5RqXWgAA-AkSlg
+#EXTINF:-1 tvg-id="MSG USA" tvg-name="MSG USA",MSG USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NTPVz8_Py9XKNSy0AuA8Reg
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC",MSNBC
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NzPVz8_Py9XKNSy0AtigRZg
+#EXTINF:-1 tvg-id="Magnolia Network" tvg-name="Magnolia Network",Magnolia Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40sLfVz8_Py9XKNSy0AqHwQ-A
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK",MTV UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NzPVz8_Py9XKNSy0At_EReA
+#EXTINF:-1 tvg-id="MTV USA" tvg-name="MTV USA",MTV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjc0N9XPz8_L1co1LLQCPyxCP
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV UK",MUTV UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc43NzfVz8_Py9XKNSy0AtmQRaw
+#EXTINF:-1 tvg-id="MAVTV USA" tvg-name="MAVTV USA",MAVTV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81MzPRz8_Py9XKNSy0At_UReA
+#EXTINF:-1 tvg-id="Marquee Sports Network" tvg-name="Marquee Sports Network",Marquee Sports Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc83NDfRz8_Py9XKNSy0AqEIQ8g
+#EXTINF:-1 tvg-id="Max Sport 1 Bulgaria" tvg-name="Max Sport 1 Bulgaria",Max Sport 1 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MjfRz8_Py9XKNSy0AtjoRZw
+#EXTINF:-1 tvg-id="Max Sport 2 Bulgaria" tvg-name="Max Sport 2 Bulgaria",Max Sport 2 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MjfVz8_Py9XKNSy0AtkURaA
+#EXTINF:-1 tvg-id="Max Sport 3 Bulgaria" tvg-name="Max Sport 3 Bulgaria",Max Sport 3 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03MTfRz8_Py9XKNSy0AqEcQ8w
+#EXTINF:-1 tvg-id="Max Sport 4 Bulgaria" tvg-name="Max Sport 4 Bulgaria",Max Sport 4 Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MTfVz8_Py9XKNSy0AtlsRag
+#EXTINF:-1 tvg-id="MLB Network USA" tvg-name="MLB Network USA",MLB Network USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc40tLfVz8_Py9XKNSy0AtpIRbw
+#EXTINF:-1 tvg-id="MASN USA" tvg-name="MASN USA",MASN USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLYws9XPz8_L1co1LLQCQKBCX
+#EXTINF:-1 tvg-id="MY9TV USA" tvg-name="MY9TV USA",MY9TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81MTfRz8_Py9XKNSy0AqEkQ8w
+#EXTINF:-1 tvg-id="Motor Trend" tvg-name="Motor Trend",Motor Trend
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkZ6ufm5-Xr5RqXWgAA-AASlQ
+#EXTINF:-1 tvg-id="METV USA" tvg-name="METV USA",METV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc83MjPRz8_Py9XKNSy0AqD8Q8g
+#EXTINF:-1 tvg-id="MDR DE" tvg-name="MDR DE",MDR DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NjfVz8_Py9XKNSy0AqDMQ8Q
+#EXTINF:-1 tvg-id="Mundotoro TV Spain" tvg-name="Mundotoro TV Spain",Mundotoro TV Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NLPVz8_Py9XKNSy0AqIEQ-A
+#EXTINF:-1 tvg-id="MTV Denmark" tvg-name="MTV Denmark",MTV Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhiY6efm5-Xr5RqXWgAA-AkSlg
+#EXTINF:-1 tvg-id="NHL Network USA" tvg-name="NHL Network USA",NHL Network USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkZ6-fm5-Xr5RqXWgAA-BYSlw
+#EXTINF:-1 tvg-id="Nova Sport Bulgaria" tvg-name="Nova Sport Bulgaria",Nova Sport Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MLPRz8_Py9XKNSy0AtnARbA
+#EXTINF:-1 tvg-id="Nova Sport Serbia" tvg-name="Nova Sport Serbia",Nova Sport Serbia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00tjPRz8_Py9XKNSy0AqEoQ8w
+#EXTINF:-1 tvg-id="Nova Sports 1 Greece" tvg-name="Nova Sports 1 Greece",Nova Sports 1 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkb6ufm5-Xr5RqXWgAA99wSkg
+#EXTINF:-1 tvg-id="Nova Sports 2 Greece" tvg-name="Nova Sports 2 Greece",Nova Sports 2 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkb6efm5-Xr5RqXWgAA9-cSkw
+#EXTINF:-1 tvg-id="Nova Sports 3 Greece" tvg-name="Nova Sports 3 Greece",Nova Sports 3 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhkb6-fm5-Xr5RqXWgAA9_ISlA
+#EXTINF:-1 tvg-id="Nova Sports 4 Greece" tvg-name="Nova Sports 4 Greece",Nova Sports 4 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmb6Ofm5-Xr5RqXWgAA9_0SlQ
+#EXTINF:-1 tvg-id="Nova Sports 5 Greece" tvg-name="Nova Sports 5 Greece",Nova Sports 5 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmb6ufm5-Xr5RqXWgAA-AgSlg
+#EXTINF:-1 tvg-id="Nova Sports 6 Greece" tvg-name="Nova Sports 6 Greece",Nova Sports 6 Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmb6efm5-Xr5RqXWgAA-BMSlw
+#EXTINF:-1 tvg-id="Nova Sports Premier League Greece" tvg-name="Nova Sports Premier League Greece",Nova Sports Premier League Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00tLfVz8_Py9XKNSy0AtqwRcQ
+#EXTINF:-1 tvg-id="Nova Sports Start Greece" tvg-name="Nova Sports Start Greece",Nova Sports Start Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhmb6-fm5-Xr5RqXWgAA-B4SmA
+#EXTINF:-1 tvg-id="Nova Sports News Greece" tvg-name="Nova Sports News Greece",Nova Sports News Greece
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlb6ufm5-Xr5RqXWgAA-DQSmg
+#EXTINF:-1 tvg-id="NESN USA" tvg-name="NESN USA",NESN USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzc2M9HPz8_L1co1LLQCP_hCT
+#EXTINF:-1 tvg-id="NBC USA" tvg-name="NBC USA",NBC USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc02N9XPz8_L1co1LLQCmIhEy
+#EXTINF:-1 tvg-id="NBA TV USA" tvg-name="NBA TV USA",NBA TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MTPRz8_Py9XKNSy0At5URcA
+#EXTINF:-1 tvg-id="NBC Sports Chicago" tvg-name="NBC Sports Chicago",NBC Sports Chicago
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83NzfRz8_Py9XKNSy0Ato0Rbg
+#EXTINF:-1 tvg-id="NBC Sports Philadelphia" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NzfVz8_Py9XKNSy0AuDERfQ
+#EXTINF:-1 tvg-id="NBC Sports Washington" tvg-name="NBC Sports Washington",NBC Sports Washington
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmptb6Ofm5-Xr5RqXWgAA-GYSng
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network",NFL Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MTPVz8_Py9XKNSy0At6ARcQ
+#EXTINF:-1 tvg-id="NBC Sports Bay Area" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc81NjfVz8_Py9XKNSy0AtlQRaQ
+#EXTINF:-1 tvg-id="NBC Sports Boston" tvg-name="NBC Sports Boston",NBC Sports Boston
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc81NTfRz8_Py9XKNSy0Atl8Rag
+#EXTINF:-1 tvg-id="NBC Sports California" tvg-name="NBC Sports California",NBC Sports California
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc81NTfVz8_Py9XKNSy0AtmoRaw
+#EXTINF:-1 tvg-id="NBCNY USA" tvg-name="NBCNY USA",NBCNY USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NLPVz8_Py9XKNSy0AuDsRfg
+#EXTINF:-1 tvg-id="Nova TV Bulgaria" tvg-name="Nova TV Bulgaria",Nova TV Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sDPRz8_Py9XKNSy0AtjARZg
+#EXTINF:-1 tvg-id="National Geographic (NGC)" tvg-name="National Geographic (NGC)",National Geographic (NGC)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NLPRz8_Py9XKNSy0At8wRdQ
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR",NICK JR
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NLPVz8_Py9XKNSy0Atj4RaA
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK",NICK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NDfRz8_Py9XKNSy0AtecRYA
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons",Nicktoons
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmplY6ufm5-Xr5RqXWgAA-EASmw
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE",NDR DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NzfRz8_Py9XKNSy0AqFQQ9A
+#EXTINF:-1 tvg-id="NewsNation USA" tvg-name="NewsNation USA",NewsNation USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSyN9HPz8_L1co1LLQCP4RCR
+#EXTINF:-1 tvg-id="Newsmax USA" tvg-name="Newsmax USA",Newsmax USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MjfVz8_Py9XKNSy0AqA4Q7g
+#EXTINF:-1 tvg-id="Nat Geo Wild USA" tvg-name="Nat Geo Wild USA",Nat Geo Wild USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81NTPVz8_Py9XKNSy0At_cReA
+#EXTINF:-1 tvg-id="Noovo CA" tvg-name="Noovo CA",Noovo CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhib6ufm5-Xr5RqXWgAA-CISmA
+#EXTINF:-1 tvg-id="New! CWPIX 11" tvg-name="New! CWPIX 11",New! CWPIX 11
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc83NDfVz8_Py9XKNSy0AqE0Q8w
+#EXTINF:-1 tvg-id="OnTime Sports" tvg-name="OnTime Sports",OnTime Sports
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MDfVz8_Py9XKNSy0Ap_gQ7A
+#EXTINF:-1 tvg-id="OnTime Sports 2" tvg-name="OnTime Sports 2",OnTime Sports 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MjfRz8_Py9XKNSy0AqAMQ7Q
+#EXTINF:-1 tvg-id="ONE 1 HD Israel" tvg-name="ONE 1 HD Israel",ONE 1 HD Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01NDPVz8_Py9XKNSy0AthgRZA
+#EXTINF:-1 tvg-id="ONE 2 HD Israel" tvg-name="ONE 2 HD Israel",ONE 2 HD Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NjPRz8_Py9XKNSy0AqBoQ7w
+#EXTINF:-1 tvg-id="Orange Sport 1 Romania" tvg-name="Orange Sport 1 Romania",Orange Sport 1 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzM7Uy0stzy7O1ysqBXP1C4pSczNLc02MLfVz8_Py9XKNSy0AtscRbg
+#EXTINF:-1 tvg-id="Orange Sport 2 Romania" tvg-name="Orange Sport 2 Romania",Orange Sport 2 Romania
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzM7Uy0stzy7O1ysqBXP1C4pSczNLc01MDPRz8_Py9XKNSy0AtnARZg
+#EXTINF:-1 tvg-id="Oprah Winfrey Network (OWN)" tvg-name="Oprah Winfrey Network (OWN)",Oprah Winfrey Network (OWN)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NDfVz8_Py9XKNSy0AtfIRYQ
+#EXTINF:-1 tvg-id="Oxygen True Crime" tvg-name="Oxygen True Crime",Oxygen True Crime
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NjfRz8_Py9XKNSy0Atf0RYg
+#EXTINF:-1 tvg-id="Polsat Poland" tvg-name="Polsat Poland",Polsat Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpoZ6efm5-Xr5RqXWgAA9_4SlQ
+#EXTINF:-1 tvg-id="Polsat News Poland" tvg-name="Polsat News Poland",Polsat News Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01MjPVz8_Py9XKNSy0AtiERZQ
+#EXTINF:-1 tvg-id="Polsat Film Poland" tvg-name="Polsat Film Poland",Polsat Film Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpqZ6Ofm5-Xr5RqXWgAA-BQSlw
+#EXTINF:-1 tvg-id="Porto Canal Portugal" tvg-name="Porto Canal Portugal",Porto Canal Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80NLfRz8_Py9XKNSy0AqFIQ9A
+#EXTINF:-1 tvg-id="ProSieben (PRO7) DE" tvg-name="ProSieben (PRO7) DE",ProSieben (PRO7) DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NDfRz8_Py9XKNSy0AqBIQ7g
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports",PTV Sports
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01MDfRz8_Py9XKNSy0AqAMQ7Q
+#EXTINF:-1 tvg-id="Premier Brasil" tvg-name="Premier Brasil",Premier Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0s9HPz8_L1co1LLQCmfRE6
+#EXTINF:-1 tvg-id="Prima Sport 1" tvg-name="Prima Sport 1",Prima Sport 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTS2M9XPz8_L1co1LLQCQBxCU
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network",Paramount Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjY1N9HPz8_L1co1LLQCPvBCO
+#EXTINF:-1 tvg-id="POP TV USA" tvg-name="POP TV USA",POP TV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81MjfVz8_Py9XKNSy0AqD4Q8g
+#EXTINF:-1 tvg-id="RTE 1" tvg-name="RTE 1",RTE 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NTPRz8_Py9XKNSy0At9ARdQ
+#EXTINF:-1 tvg-id="RTE 2" tvg-name="RTE 2",RTE 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NTPVz8_Py9XKNSy0At9sRdg
+#EXTINF:-1 tvg-id="RMC Sport 1 France" tvg-name="RMC Sport 1 France",RMC Sport 1 France
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw0NLfVz8_Py9XKNSy0At7ERcw
+#EXTINF:-1 tvg-id="RMC Sport 2 France" tvg-name="RMC Sport 2 France",RMC Sport 2 France
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw2NDPRz8_Py9XKNSy0Ap7gQ5w
+#EXTINF:-1 tvg-id="RTP 2 Portugal" tvg-name="RTP 2 Portugal",RTP 2 Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NDPRz8_Py9XKNSy0AqAYQ7Q
+#EXTINF:-1 tvg-id="RTP 3 Portugal" tvg-name="RTP 3 Portugal",RTP 3 Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NDPVz8_Py9XKNSy0AqBEQ7g
+#EXTINF:-1 tvg-id="Rai 1 Italy" tvg-name="Rai 1 Italy",Rai 1 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy1MDfRz8_Py9XKNSy0AqDcQ8Q
+#EXTINF:-1 tvg-id="Rai 2 Italy" tvg-name="Rai 2 Italy",Rai 2 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy1MDfVz8_Py9XKNSy0AqEIQ8g
+#EXTINF:-1 tvg-id="Rai 3 Italy" tvg-name="Rai 3 Italy",Rai 3 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MjfRz8_Py9XKNSy0AtlYRaQ
+#EXTINF:-1 tvg-id="Rai 3 Italy" tvg-name="Rai 3 Italy",Rai 3 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MjfVz8_Py9XKNSy0AtmERag
+#EXTINF:-1 tvg-id="Rai Premium Italy" tvg-name="Rai Premium Italy",Rai Premium Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MLfRz8_Py9XKNSy0AtpgRbw
+#EXTINF:-1 tvg-id="Real Madrid TV Spain" tvg-name="Real Madrid TV Spain",Real Madrid TV Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhoZ6-fm5-Xr5RqXWgAA99kSkg
+#EXTINF:-1 tvg-id="RDS CA" tvg-name="RDS CA",RDS CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhhb6ufm5-Xr5RqXWgAA-E4SnA
+#EXTINF:-1 tvg-id="RDS 2 CA" tvg-name="RDS 2 CA",RDS 2 CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWpgY6Ofm5-Xr5RqXWgAA9_cSlA
+#EXTINF:-1 tvg-id="RDS Info CA" tvg-name="RDS Info CA",RDS Info CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWpgY6ufm5-Xr5RqXWgAA-AISlQ
+#EXTINF:-1 tvg-id="Ring Bulgaria" tvg-name="Ring Bulgaria",Ring Bulgaria
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc03MDfVz8_Py9XKNSy0Ati8RZg
+#EXTINF:-1 tvg-id="RTL7 Netherland" tvg-name="RTL7 Netherland",RTL7 Netherland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc40tDfRz8_Py9XKNSy0Ati8RZg
+#EXTINF:-1 tvg-id="Racing Tv UK" tvg-name="Racing Tv UK",Racing Tv UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NTfVz8_Py9XKNSy0At-kRdw
+#EXTINF:-1 tvg-id="Reelz Channel" tvg-name="Reelz Channel",Reelz Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40sjfVz8_Py9XKNSy0At9wRdg
+#EXTINF:-1 tvg-id="Sky Sports Golf Italy" tvg-name="Sky Sports Golf Italy",Sky Sports Golf Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03NTfRz8_Py9XKNSy0AqFQQ9A
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD" tvg-name="Sky Sport Bundesliga 1 HD",Sky Sport Bundesliga 1 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NLfRz8_Py9XKNSy0AqGgQ9g
+#EXTINF:-1 tvg-id="SportsNet New York (SNY)" tvg-name="SportsNet New York (SNY)",SportsNet New York (SNY)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81NLfVz8_Py9XKNSy0AuC8RfQ
+#EXTINF:-1 tvg-id="Sky Sport Arena Italy" tvg-name="Sky Sport Arena Italy",Sky Sport Arena Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03MjPRz8_Py9XKNSy0AqCUQ8A
+#EXTINF:-1 tvg-id="Sky UNO Italy" tvg-name="Sky UNO Italy",Sky UNO Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0sDPVz8_Py9XKNSy0Atm8Raw
+#EXTINF:-1 tvg-id="Sky Sport 1 NZ" tvg-name="Sky Sport 1 NZ",Sky Sport 1 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlpY6Ofm5-Xr5RqXWgAA-FgSnQ
+#EXTINF:-1 tvg-id="Sky Sport 2 NZ" tvg-name="Sky Sport 2 NZ",Sky Sport 2 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlpY6ufm5-Xr5RqXWgAA-GMSng
+#EXTINF:-1 tvg-id="Sky Sport 3 NZ" tvg-name="Sky Sport 3 NZ",Sky Sport 3 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmloa6Ofm5-Xr5RqXWgAA-AwSlg
+#EXTINF:-1 tvg-id="Sky Sport 4 NZ" tvg-name="Sky Sport 4 NZ",Sky Sport 4 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmloa6ufm5-Xr5RqXWgAA-BcSlw
+#EXTINF:-1 tvg-id="Sky Sport 5 NZ" tvg-name="Sky Sport 5 NZ",Sky Sport 5 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmloa6efm5-Xr5RqXWgAA-CISmA
+#EXTINF:-1 tvg-id="Sky Sport 6 NZ" tvg-name="Sky Sport 6 NZ",Sky Sport 6 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmloa6-fm5-Xr5RqXWgAA-C0SmQ
+#EXTINF:-1 tvg-id="Sky Sport 7 NZ" tvg-name="Sky Sport 7 NZ",Sky Sport 7 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlqa6Ofm5-Xr5RqXWgAA-DgSmg
+#EXTINF:-1 tvg-id="Sky Sport 8 NZ" tvg-name="Sky Sport 8 NZ",Sky Sport 8 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlqa6ufm5-Xr5RqXWgAA-EMSmw
+#EXTINF:-1 tvg-id="Sky Sport 9 NZ" tvg-name="Sky Sport 9 NZ",Sky Sport 9 NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlqa6efm5-Xr5RqXWgAA-E4SnA
+#EXTINF:-1 tvg-id="Sky Sport Select NZ" tvg-name="Sky Sport Select NZ",Sky Sport Select NZ
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlqY6-fm5-Xr5RqXWgAA-E0SnA
+#EXTINF:-1 tvg-id="SIC Portugal" tvg-name="SIC Portugal",SIC Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NjPRz8_Py9XKNSy0AqBwQ7w
+#EXTINF:-1 tvg-id="SEC Network USA" tvg-name="SEC Network USA",SEC Network USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tTPVz8_Py9XKNSy0At_MReA
+#EXTINF:-1 tvg-id="SporTV2 Brasil" tvg-name="SporTV2 Brasil",SporTV2 Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80t9XPz8_L1co1LLQCY6RDE
+#EXTINF:-1 tvg-id="SporTV3 Brasil" tvg-name="SporTV3 Brasil",SporTV3 Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0M9HPz8_L1co1LLQCmJREy
+#EXTINF:-1 tvg-id="Sport Klub HD Serbia" tvg-name="Sport Klub HD Serbia",Sport Klub HD Serbia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01MjfVz8_Py9XKNSy0Ati0RZg
+#EXTINF:-1 tvg-id="Sportsnet Ontario" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00MzPRz8_Py9XKNSy0AthIRZA
+#EXTINF:-1 tvg-id="Sportsnet One" tvg-name="Sportsnet One",Sportsnet One
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MDfVz8_Py9XKNSy0At4ARbg
+#EXTINF:-1 tvg-id="Sportsnet West" tvg-name="Sportsnet West",Sportsnet West
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00MzPVz8_Py9XKNSy0Ath0RZQ
+#EXTINF:-1 tvg-id="Sportsnet East" tvg-name="Sportsnet East",Sportsnet East
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00MLPRz8_Py9XKNSy0AtigRZg
+#EXTINF:-1 tvg-id="Sportsnet 360" tvg-name="Sportsnet 360",Sportsnet 360
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MLPVz8_Py9XKNSy0At8wRdQ
+#EXTINF:-1 tvg-id="Sportsnet World" tvg-name="Sportsnet World",Sportsnet World
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00MDfRz8_Py9XKNSy0AtdwRXw
+#EXTINF:-1 tvg-id="SuperSport Grandstand" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MjfRz8_Py9XKNSy0At4sRbw
+#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="SuperSport PSL",SuperSport PSL
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MjfVz8_Py9XKNSy0At5YRcA
+#EXTINF:-1 tvg-id="SuperSport Premier league" tvg-name="SuperSport Premier league",SuperSport Premier league
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00MTfRz8_Py9XKNSy0Ap_8Q7Q
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00MTfVz8_Py9XKNSy0AqAoQ7g
+#EXTINF:-1 tvg-id="SuperSport Variety 1" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MzfRz8_Py9XKNSy0At7cRcw
+#EXTINF:-1 tvg-id="SuperSport Variety 2" tvg-name="SuperSport Variety 2",SuperSport Variety 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00MzfVz8_Py9XKNSy0AtikRZg
+#EXTINF:-1 tvg-id="SuperSport Variety 3" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc00MLfRz8_Py9XKNSy0AqCsQ8Q
+#EXTINF:-1 tvg-id="SuperSport Variety 4" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00MLfVz8_Py9XKNSy0At9gRdg
+#EXTINF:-1 tvg-id="SuperSport Action" tvg-name="SuperSport Action",SuperSport Action
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc02MDPRz8_Py9XKNSy0AtegRYA
+#EXTINF:-1 tvg-id="SuperSport Rugby" tvg-name="SuperSport Rugby",SuperSport Rugby
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MDPVz8_Py9XKNSy0At4wRbw
+#EXTINF:-1 tvg-id="SuperSport Golf" tvg-name="SuperSport Golf",SuperSport Golf
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MjPRz8_Py9XKNSy0At5cRcA
+#EXTINF:-1 tvg-id="SuperSport Tennis" tvg-name="SuperSport Tennis",SuperSport Tennis
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MjPVz8_Py9XKNSy0At6IRcQ
+#EXTINF:-1 tvg-id="SuperSport Motorsport" tvg-name="SuperSport Motorsport",SuperSport Motorsport
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MTPRz8_Py9XKNSy0At60Rcg
+#EXTINF:-1 tvg-id="Supersport Football" tvg-name="Supersport Football",Supersport Football
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc03N9HPz8_L1co1LLQCnzhFD
+#EXTINF:-1 tvg-id="SuperSport Cricket" tvg-name="SuperSport Cricket",SuperSport Cricket
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGptZ6Ofm5-Xr5RqXWgAA-CYSmQ
+#EXTINF:-1 tvg-id="SuperSport MaXimo 1" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpob6efm5-Xr5RqXWgAA-AoSlg
+#EXTINF:-1 tvg-id="Sporting TV Portugal" tvg-name="Sporting TV Portugal",Sporting TV Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80NzfRz8_Py9XKNSy0AqDwQ8g
+#EXTINF:-1 tvg-id="SportDigital Fussball" tvg-name="SportDigital Fussball",SportDigital Fussball
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpob6ufm5-Xr5RqXWgAA9_8SlQ
+#EXTINF:-1 tvg-id="Spectrum Sportsnet LA" tvg-name="Spectrum Sportsnet LA",Spectrum Sportsnet LA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzc1M9HPz8_L1co1LLQCQFBCV
+#EXTINF:-1 tvg-id="Sport1+ Germany" tvg-name="Sport1+ Germany",Sport1+ Germany
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkY6Ofm5-Xr5RqXWgAA990Skg
+#EXTINF:-1 tvg-id="Sport1 Germany" tvg-name="Sport1 Germany",Sport1 Germany
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81MDPVz8_Py9XKNSy0AqBwQ7w
+#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK",S4C UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkb6Ofm5-Xr5RqXWgAA-AESlQ
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 DE",SAT.1 DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NLPVz8_Py9XKNSy0AqGkQ9g
+#EXTINF:-1 tvg-id="Sky Cinema Premiere UK" tvg-name="Sky Cinema Premiere UK",Sky Cinema Premiere UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MDfVz8_Py9XKNSy0AtkkRaA
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="Sky Cinema Select UK",Sky Cinema Select UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MjfRz8_Py9XKNSy0AtlQRaQ
+#EXTINF:-1 tvg-id="Sky Cinema Hits UK" tvg-name="Sky Cinema Hits UK",Sky Cinema Hits UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MjfVz8_Py9XKNSy0Atl8Rag
+#EXTINF:-1 tvg-id="Sky Cinema Greats UK" tvg-name="Sky Cinema Greats UK",Sky Cinema Greats UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MTfRz8_Py9XKNSy0AtmoRaw
+#EXTINF:-1 tvg-id="Sky Cinema Animation UK" tvg-name="Sky Cinema Animation UK",Sky Cinema Animation UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MTfVz8_Py9XKNSy0AtnURbA
+#EXTINF:-1 tvg-id="Sky Cinema Family UK" tvg-name="Sky Cinema Family UK",Sky Cinema Family UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MzfRz8_Py9XKNSy0AtoARbQ
+#EXTINF:-1 tvg-id="Sky Cinema Action UK" tvg-name="Sky Cinema Action UK",Sky Cinema Action UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MzfVz8_Py9XKNSy0AtosRbg
+#EXTINF:-1 tvg-id="The Hallmark" tvg-name="The Hallmark",The Hallmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MLfRz8_Py9XKNSy0AtpYRbw
+#EXTINF:-1 tvg-id="Sky Cinema Thriller UK" tvg-name="Sky Cinema Thriller UK",Sky Cinema Thriller UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MLfVz8_Py9XKNSy0AtqERcA
+#EXTINF:-1 tvg-id="The Hallmark" tvg-name="The Hallmark",The Hallmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sDPRz8_Py9XKNSy0AtkoRaA
+#EXTINF:-1 tvg-id="Sky Cinema Collection Italy" tvg-name="Sky Cinema Collection Italy",Sky Cinema Collection Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MLfVz8_Py9XKNSy0AtqMRcA
+#EXTINF:-1 tvg-id="Sky Cinema Uno Italy" tvg-name="Sky Cinema Uno Italy",Sky Cinema Uno Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MDPRz8_Py9XKNSy0AtkwRaA
+#EXTINF:-1 tvg-id="Sky Cinema Action Italy" tvg-name="Sky Cinema Action Italy",Sky Cinema Action Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MDPVz8_Py9XKNSy0AtlcRaQ
+#EXTINF:-1 tvg-id="8Sky Cinema Comedy Italy" tvg-name="8Sky Cinema Comedy Italy",8Sky Cinema Comedy Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MjPRz8_Py9XKNSy0AtmIRag
+#EXTINF:-1 tvg-id="Sky Cinema Uno +24 Italy" tvg-name="Sky Cinema Uno +24 Italy",Sky Cinema Uno +24 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MjPVz8_Py9XKNSy0Atm0Raw
+#EXTINF:-1 tvg-id="Sky Cinema Romance Italy" tvg-name="Sky Cinema Romance Italy",Sky Cinema Romance Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTPRz8_Py9XKNSy0AtngRbA
+#EXTINF:-1 tvg-id="Sky Cinema Family Italy" tvg-name="Sky Cinema Family Italy",Sky Cinema Family Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTPVz8_Py9XKNSy0AtoMRbQ
+#EXTINF:-1 tvg-id="Sky Cinema Due +24 Italy" tvg-name="Sky Cinema Due +24 Italy",Sky Cinema Due +24 Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MzPRz8_Py9XKNSy0Ato4Rbg
+#EXTINF:-1 tvg-id="Sky Cinema Drama Italy" tvg-name="Sky Cinema Drama Italy",Sky Cinema Drama Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MzPVz8_Py9XKNSy0AtpkRbw
+#EXTINF:-1 tvg-id="8Sky Cinema Suspense Italy" tvg-name="8Sky Cinema Suspense Italy",8Sky Cinema Suspense Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy3MLPRz8_Py9XKNSy0AqJsQ-g
+#EXTINF:-1 tvg-id="Sky Calcio 1 (251) Italy" tvg-name="Sky Calcio 1 (251) Italy",Sky Calcio 1 (251) Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy3MDfVz8_Py9XKNSy0At_wReA
+#EXTINF:-1 tvg-id="Sky Calcio 3 (253) Italy" tvg-name="Sky Calcio 3 (253) Italy",Sky Calcio 3 (253) Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MjfVz8_Py9XKNSy0AtnkRbA
+#EXTINF:-1 tvg-id="Sky Calcio 4 (254) Italy" tvg-name="Sky Calcio 4 (254) Italy",Sky Calcio 4 (254) Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTfRz8_Py9XKNSy0AtoQRbQ
+#EXTINF:-1 tvg-id="Sky Calcio 5 (255) Italy" tvg-name="Sky Calcio 5 (255) Italy",Sky Calcio 5 (255) Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTfVz8_Py9XKNSy0Ato8Rbg
+#EXTINF:-1 tvg-id="Sky Calcio 6 (256) Italy" tvg-name="Sky Calcio 6 (256) Italy",Sky Calcio 6 (256) Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MzfRz8_Py9XKNSy0AtpoRbw
+#EXTINF:-1 tvg-id="Sky Serie Italy" tvg-name="Sky Serie Italy",Sky Serie Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0sDPRz8_Py9XKNSy0AtmQRag
+#EXTINF:-1 tvg-id="StarzPlay CricLife 1 HD" tvg-name="StarzPlay CricLife 1 HD",StarzPlay CricLife 1 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSxM9HPz8_L1co1LLQCP6xCS
+#EXTINF:-1 tvg-id="StarzPlay CricLife 2 HD" tvg-name="StarzPlay CricLife 2 HD",StarzPlay CricLife 2 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSyM9XPz8_L1co1LLQCP4BCR
+#EXTINF:-1 tvg-id="StarzPlay CricLife 3 HD" tvg-name="StarzPlay CricLife 3 HD",StarzPlay CricLife 3 HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40sjPRz8_Py9XKNSy0AqCMQ8A
+#EXTINF:-1 tvg-id="Sky Showcase UK" tvg-name="Sky Showcase UK",Sky Showcase UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sjPRz8_Py9XKNSy0AtmARag
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="Sky Arts UK",Sky Arts UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sjPVz8_Py9XKNSy0AtmsRaw
+#EXTINF:-1 tvg-id="Sky Comedy UK" tvg-name="Sky Comedy UK",Sky Comedy UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sTPRz8_Py9XKNSy0AtnYRbA
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime",Sky Crime
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sTPVz8_Py9XKNSy0AtoERbQ
+#EXTINF:-1 tvg-id="Sky History" tvg-name="Sky History",Sky History
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80szPRz8_Py9XKNSy0AtowRbg
+#EXTINF:-1 tvg-id="SSC Sport 1" tvg-name="SSC Sport 1",SSC Sport 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MTfRz8_Py9XKNSy0AqBkQ7w
+#EXTINF:-1 tvg-id="SSC Sport 3" tvg-name="SSC Sport 3",SSC Sport 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MzfRz8_Py9XKNSy0AqC8Q8Q
+#EXTINF:-1 tvg-id="SSC Sport 4" tvg-name="SSC Sport 4",SSC Sport 4
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MzfVz8_Py9XKNSy0AqDoQ8g
+#EXTINF:-1 tvg-id="SSC Sport 5" tvg-name="SSC Sport 5",SSC Sport 5
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80MLfRz8_Py9XKNSy0AqEUQ8w
+#EXTINF:-1 tvg-id="Sport 1 Israel" tvg-name="Sport 1 Israel",Sport 1 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NDPRz8_Py9XKNSy0At3IRbQ
+#EXTINF:-1 tvg-id="Sport 2 Israel" tvg-name="Sport 2 Israel",Sport 2 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NDPVz8_Py9XKNSy0At30Rbg
+#EXTINF:-1 tvg-id="Sport 3 Israel" tvg-name="Sport 3 Israel",Sport 3 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NjPRz8_Py9XKNSy0At4gRbw
+#EXTINF:-1 tvg-id="Sport 4 Israel" tvg-name="Sport 4 Israel",Sport 4 Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NjPVz8_Py9XKNSy0At5MRcA
+#EXTINF:-1 tvg-id="Sport 5 PLUS Israel" tvg-name="Sport 5 PLUS Israel",Sport 5 PLUS Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NTPVz8_Py9XKNSy0At6kRcg
+#EXTINF:-1 tvg-id="Sport 5 Live Israel" tvg-name="Sport 5 Live Israel",Sport 5 Live Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NzPRz8_Py9XKNSy0At7QRcw
+#EXTINF:-1 tvg-id="Sport 5 Star Israel" tvg-name="Sport 5 Star Israel",Sport 5 Star Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcw1NzPVz8_Py9XKNSy0At78RdA
+#EXTINF:-1 tvg-id="Sport 5 Gold Israel" tvg-name="Sport 5 Gold Israel",Sport 5 Gold Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw1NLPRz8_Py9XKNSy0AqCgQ8Q
+#EXTINF:-1 tvg-id="Science Channel" tvg-name="Science Channel",Science Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSxN9HPz8_L1co1LLQCP9xCT
+#EXTINF:-1 tvg-id="Showtime USA" tvg-name="Showtime USA",Showtime USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NjfVz8_Py9XKNSy0AtggRYw
+#EXTINF:-1 tvg-id="Showtime SHOxBET USA" tvg-name="Showtime SHOxBET USA",Showtime SHOxBET USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sTPVz8_Py9XKNSy0AtoERbQ
+#EXTINF:-1 tvg-id="Starz" tvg-name="Starz",Starz
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NTfVz8_Py9XKNSy0At7cRcw
+#EXTINF:-1 tvg-id="Sky Witness HD" tvg-name="Sky Witness HD",Sky Witness HD
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NDPVz8_Py9XKNSy0AqA0Q7g
+#EXTINF:-1 tvg-id="Sixx DE" tvg-name="Sixx DE",Sixx DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NjfRz8_Py9XKNSy0AqCgQ8A
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic",Sky Atlantic
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NjPRz8_Py9XKNSy0AqBgQ7w
+#EXTINF:-1 tvg-id="SYFY USA" tvg-name="SYFY USA",SYFY USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NjfVz8_Py9XKNSy0At9ERdQ
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance TV",Sundance TV
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpla6Ofm5-Xr5RqXWgAA-EESmw
+#EXTINF:-1 tvg-id="SWR DE" tvg-name="SWR DE",SWR DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NTfVz8_Py9XKNSy0AqEkQ8w
+#EXTINF:-1 tvg-id="SUPER RTL DE" tvg-name="SUPER RTL DE",SUPER RTL DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NLfRz8_Py9XKNSy0AqGoQ9g
+#EXTINF:-1 tvg-id="SR Fernsehen DE" tvg-name="SR Fernsehen DE",SR Fernsehen DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NLfVz8_Py9XKNSy0AqHUQ9w
+#EXTINF:-1 tvg-id="TVN HD Poland" tvg-name="TVN HD Poland",TVN HD Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpqZ6ufm5-Xr5RqXWgAA-B8SmA
+#EXTINF:-1 tvg-id="TVP1 Poland" tvg-name="TVP1 Poland",TVP1 Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpoZ6Ofm5-Xr5RqXWgAA9-gSkw
+#EXTINF:-1 tvg-id="TVP2 Poland" tvg-name="TVP2 Poland",TVP2 Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpoZ6ufm5-Xr5RqXWgAA9_MSlA
+#EXTINF:-1 tvg-id="Telecinco Spain" tvg-name="Telecinco Spain",Telecinco Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhob6efm5-Xr5RqXWgAA99oSkg
+#EXTINF:-1 tvg-id="TVE La 1 Spain" tvg-name="TVE La 1 Spain",TVE La 1 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhob6-fm5-Xr5RqXWgAA9-USkw
+#EXTINF:-1 tvg-id="TVE La 2 Spain" tvg-name="TVE La 2 Spain",TVE La 2 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhqb6efm5-Xr5RqXWgAA-AYSlg
+#EXTINF:-1 tvg-id="TVI Portugal" tvg-name="TVI Portugal",TVI Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NjPVz8_Py9XKNSy0AqCcQ8A
+#EXTINF:-1 tvg-id="TVI Reality Portugal" tvg-name="TVI Reality Portugal",TVI Reality Portugal
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NTPRz8_Py9XKNSy0AqDIQ8Q
+#EXTINF:-1 tvg-id="Teledeporte Spain (TDP)" tvg-name="Teledeporte Spain (TDP)",Teledeporte Spain (TDP)
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhpZ6ufm5-Xr5RqXWgAA-BsSmA
+#EXTINF:-1 tvg-id="TYC Sports Argentina" tvg-name="TYC Sports Argentina",TYC Sports Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NzPRz8_Py9XKNSy0AqGAQ9Q
+#EXTINF:-1 tvg-id="TVP Sport Poland" tvg-name="TVP Sport Poland",TVP Sport Poland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzDY0s9HPz8_L1co1LLQCPwhCP
+#EXTINF:-1 tvg-id="TNT Brasil" tvg-name="TNT Brasil",TNT Brasil
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3M9XPz8_L1co1LLQCmchE5
+#EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT Sports Argentina",TNT Sports Argentina
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40tLPRz8_Py9XKNSy0AqHIQ9w
+#EXTINF:-1 tvg-id="TNT Sports HD Chile" tvg-name="TNT Sports HD Chile",TNT Sports HD Chile
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkY6efm5-Xr5RqXWgAA9_MSlA
+#EXTINF:-1 tvg-id="Ten Sports PK" tvg-name="Ten Sports PK",Ten Sports PK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NDPVz8_Py9XKNSy0AqCkQ8A
+#EXTINF:-1 tvg-id="TUDN USA" tvg-name="TUDN USA",TUDN USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83M9HPz8_L1co1LLQCmTxE2
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo",Telemundo
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcw2NDfVz8_Py9XKNSy0AtdgRXw
+#EXTINF:-1 tvg-id="TBS USA" tvg-name="TBS USA",TBS USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NzfRz8_Py9XKNSy0At8IRdA
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC",TLC
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc42NzfVz8_Py9XKNSy0AtjQRZw
+#EXTINF:-1 tvg-id="TNT USA" tvg-name="TNT USA",TNT USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NLfRz8_Py9XKNSy0At9gRdg
+#EXTINF:-1 tvg-id="TVA Sports 2" tvg-name="TVA Sports 2",TVA Sports 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhib6Ofm5-Xr5RqXWgAA-BcSlw
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel",Travel Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc41NDPRz8_Py9XKNSy0AtfMRYQ
+#EXTINF:-1 tvg-id="TruTV USA" tvg-name="TruTV USA",TruTV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGpsY6ufm5-Xr5RqXWgAA98ESkA
+#EXTINF:-1 tvg-id="TVLAND" tvg-name="TVLAND",TVLAND
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc41NjPRz8_Py9XKNSy0AqAAQ7Q
+#EXTINF:-1 tvg-id="TCM USA" tvg-name="TCM USA",TCM USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzUxM9HPz8_L1co1LLQCP7xCS
+#EXTINF:-1 tvg-id="TMC Channel USA" tvg-name="TMC Channel USA",TMC Channel USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmlla6Ofm5-Xr5RqXWgAA-HESnw
+#EXTINF:-1 tvg-id="The Food Network" tvg-name="The Food Network",The Food Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tTPRz8_Py9XKNSy0At-gRdw
+#EXTINF:-1 tvg-id="The Weather Channel" tvg-name="The Weather Channel",The Weather Channel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tTfRz8_Py9XKNSy0At_QReA
+#EXTINF:-1 tvg-id="TVP INFO" tvg-name="TVP INFO",TVP INFO
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpga6efm5-Xr5RqXWgAA9-USkw
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick",TeenNick
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpka6Ofm5-Xr5RqXWgAA9-kSkw
+#EXTINF:-1 tvg-id="TV ONE USA" tvg-name="TV ONE USA",TV ONE USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkZ6Ofm5-Xr5RqXWgAA9_USlA
+#EXTINF:-1 tvg-id="TV2 Bornholm Denmark" tvg-name="TV2 Bornholm Denmark",TV2 Bornholm Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhiY6-fm5-Xr5RqXWgAA-BQSlw
+#EXTINF:-1 tvg-id="TV2 Denmark" tvg-name="TV2 Denmark",TV2 Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy0MzfVz8_Py9XKNSy0AqFQQ9A
+#EXTINF:-1 tvg-id="TV2 Zulu" tvg-name="TV2 Zulu",TV2 Zulu
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy0MLfRz8_Py9XKNSy0AqF8Q9Q
+#EXTINF:-1 tvg-id="TV3+ Denmark" tvg-name="TV3+ Denmark",TV3+ Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy0MLfVz8_Py9XKNSy0AqGoQ9g
+#EXTINF:-1 tvg-id="TVO CA" tvg-name="TVO CA",TVO CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWpgY6efm5-Xr5RqXWgAA-A0Slg
+#EXTINF:-1 tvg-id="Tennis+ 1" tvg-name="Tennis+ 1",Tennis+ 1
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NDPRz8_Py9XKNSy0At5ARbw
+#EXTINF:-1 tvg-id="Tennis+ 2" tvg-name="Tennis+ 2",Tennis+ 2
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NDPVz8_Py9XKNSy0At5sRcA
+#EXTINF:-1 tvg-id="Tennis+ 3" tvg-name="Tennis+ 3",Tennis+ 3
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NjPRz8_Py9XKNSy0At6YRcQ
+#EXTINF:-1 tvg-id="Tennis+ 4" tvg-name="Tennis+ 4",Tennis+ 4
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NjPVz8_Py9XKNSy0At7ERcg
+#EXTINF:-1 tvg-id="Tennis+ 6" tvg-name="Tennis+ 6",Tennis+ 6
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NTPVz8_Py9XKNSy0At8cRdA
+#EXTINF:-1 tvg-id="Tennis+ 7" tvg-name="Tennis+ 7",Tennis+ 7
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NzPRz8_Py9XKNSy0At9IRdQ
+#EXTINF:-1 tvg-id="Tennis+ 8" tvg-name="Tennis+ 8",Tennis+ 8
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NzPVz8_Py9XKNSy0At90Rdg
+#EXTINF:-1 tvg-id="Tennis+ 11" tvg-name="Tennis+ 11",Tennis+ 11
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzQ0N9HPz8_L1co1LLQCPrBCM
+#EXTINF:-1 tvg-id="Tennis+ 13" tvg-name="Tennis+ 13",Tennis+ 13
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzQ2N9HPz8_L1co1LLQCPwhCO
+#EXTINF:-1 tvg-id="Tennis+ 14" tvg-name="Tennis+ 14",Tennis+ 14
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzQ2N9XPz8_L1co1LLQCPzRCP
+#EXTINF:-1 tvg-id="Tennis+ 15" tvg-name="Tennis+ 15",Tennis+ 15
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzQ1N9HPz8_L1co1LLQCP2BCQ
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision",Univision
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzDY2N9HPz8_L1co1LLQCPjBCK
+#EXTINF:-1 tvg-id="Unimas" tvg-name="Unimas",Unimas
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzDY2N9XPz8_L1co1LLQCPlxCL
+#EXTINF:-1 tvg-id="Viaplay Xtra UK" tvg-name="Viaplay Xtra UK",Viaplay Xtra UK
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc00tzfVz8_Py9XKNSy0AuC8RfQ
+#EXTINF:-1 tvg-id="V Film Family" tvg-name="V Film Family",V Film Family
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLQzN9HPz8_L1co1LLQCP-xCT
+#EXTINF:-1 tvg-id="VH1 USA" tvg-name="VH1 USA",VH1 USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NTPRz8_Py9XKNSy0At7gRcw
+#EXTINF:-1 tvg-id="Veronica NL Netherland" tvg-name="Veronica NL Netherland",Veronica NL Netherland
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NLfRz8_Py9XKNSy0AuAgReg
+#EXTINF:-1 tvg-id="VTV+ Uruguay" tvg-name="VTV+ Uruguay",VTV+ Uruguay
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjS0N9XPz8_L1co1LLQCP4xCR
+#EXTINF:-1 tvg-id="VICE TV" tvg-name="VICE TV",VICE TV
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpla6ufm5-Xr5RqXWgAA-EwSnA
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-name="Willow Cricket",Willow Cricket
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NzPRz8_Py9XKNSy0At84RdQ
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network",WWE Network
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc43NzfRz8_Py9XKNSy0AtlkRag
+#EXTINF:-1 tvg-id="Win Sports+ Columbia" tvg-name="Win Sports+ Columbia",Win Sports+ Columbia
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGlsa6efm5-Xr5RqXWgAA-AgSlg
+#EXTINF:-1 tvg-id="WETV USA" tvg-name="WETV USA",WETV USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81MTfVz8_Py9XKNSy0AqFQQ9A
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE",WDR DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NTfRz8_Py9XKNSy0AqD4Q8g
+#EXTINF:-1 tvg-id="YES Network USA" tvg-name="YES Network USA",YES Network USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NjPVz8_Py9XKNSy0At_kReA
+#EXTINF:-1 tvg-id="Yes Movies Action Israel" tvg-name="Yes Movies Action Israel",Yes Movies Action Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NjPVz8_Py9XKNSy0At8cRdA
+#EXTINF:-1 tvg-id="Yes Movies Kids Israel" tvg-name="Yes Movies Kids Israel",Yes Movies Kids Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NTPRz8_Py9XKNSy0At9IRdQ
+#EXTINF:-1 tvg-id="Yes Movies Comedy Israel" tvg-name="Yes Movies Comedy Israel",Yes Movies Comedy Israel
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01NTPVz8_Py9XKNSy0At90Rdg
+#EXTINF:-1 tvg-id="Yas TV UAE" tvg-name="Yas TV UAE",Yas TV UAE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhlY6ufm5-Xr5RqXWgAA-BASlw
+#EXTINF:-1 tvg-id="Yes TV CA" tvg-name="Yes TV CA",Yes TV CA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhib6-fm5-Xr5RqXWgAA-DgSmg
+#EXTINF:-1 tvg-id="BBC 1 DE" tvg-name="BBC 1 DE",BBC 1 DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NzPVz8_Py9XKNSy0AqFMQ9A
+#EXTINF:-1 tvg-id="ZDF Info DE" tvg-name="ZDF Info DE",ZDF Info DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NLPRz8_Py9XKNSy0AqF4Q9Q
+#EXTINF:-1 tvg-id="20 Mediaset Italy" tvg-name="20 Mediaset Italy",20 Mediaset Italy
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MzfVz8_Py9XKNSy0Ato0Rbg
+#EXTINF:-1 tvg-id="6'eren Denmark" tvg-name="6'eren Denmark",6'eren Denmark
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmWhgY6Ofm5-Xr5RqXWgAA98cSkA
+#EXTINF:-1 tvg-id="#0 Spain" tvg-name="#0 Spain",#0 Spain
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc02MzfVz8_Py9XKNSy0At9oRdg
+#EXTINF:-1 tvg-id="5 USA" tvg-name="5 USA",5 USA
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc43NDPRz8_Py9XKNSy0AtgsRYw
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat DE",3sat DE
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc82NzPRz8_Py9XKNSy0AqEgQ8w
