@@ -1,0 +1,63 @@
+name: Generate M3U Playlist Daily
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    # You can customize the cron schedule as needed.
+    # For example, '0 3 * * *' would run at 3 AM UTC.
+    # See https://crontab.guru/ for help with cron schedules.
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # This is important to allow committing back to the branch
+          # If you use a different branch, change 'main' accordingly
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use a recent Python 3 version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 PyYAML
+          # Add any other dependencies your script might need here
+
+      - name: Run Python script
+        run: python get_daddy_m3u8.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+
+      - name: Commit and push changes
+        run: |
+          # Add all generated files or specific files
+          # The script generates:
+          # - daddylive_channels_proxied.m3u
+          # - daddylive-channels-tvg-ids.txt
+          # - search_substrings.yaml (if it doesn't exist)
+          git add daddylive_channels_proxied.m3u daddylive-channels-tvg-ids.txt search_substrings.yaml
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated M3U and TVG ID update"
+            git push
+            echo "Changes committed and pushed."
+          fi
+        # Continue even if there are no changes to commit
+        continue-on-error: true
