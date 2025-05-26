@@ -395,8 +395,6 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXm
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NDPRz8_Py9XKNSy0At3QRbQ
 #EXTINF:-1 tvg-id="Hallmark Movies & Mysterie" tvg-name="Hallmark Movies & Mysterie",Hallmark Movies & Mysterie
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40szfRz8_Py9XKNSy0AqFsQ9Q
-#EXTINF:-1 tvg-id="HBO USA" tvg-name="HBO USA",HBO USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NDPVz8_Py9XKNSy0At38Rbg
 #EXTINF:-1 tvg-id="HBO2 USA" tvg-name="HBO2 USA",HBO2 USA
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzSws9XPz8_L1co1LLQCQVhCb
 #EXTINF:-1 tvg-id="HBO Comedy USA" tvg-name="HBO Comedy USA",HBO Comedy USA
@@ -957,6 +955,8 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NjPRz8_Py9XKNSy0At6YRcQ
 #EXTINF:-1 tvg-id="Tennis+ 4" tvg-name="Tennis+ 4",Tennis+ 4
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NjPVz8_Py9XKNSy0At7ERcg
+#EXTINF:-1 tvg-id="Tennis+ 5" tvg-name="Tennis+ 5",Tennis+ 5
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NTPRz8_Py9XKNSy0At7wRcw
 #EXTINF:-1 tvg-id="Tennis+ 6" tvg-name="Tennis+ 6",Tennis+ 6
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc80NTPVz8_Py9XKNSy0At8cRdA
 #EXTINF:-1 tvg-id="Tennis+ 7" tvg-name="Tennis+ 7",Tennis+ 7

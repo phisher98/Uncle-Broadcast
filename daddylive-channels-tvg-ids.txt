@@ -196,7 +196,6 @@ Globo RIO
 Global CA
 The Hallmark Channel
 Hallmark Movies & Mysterie
-HBO USA
 HBO2 USA
 HBO Comedy USA
 HBO Family USA
@@ -477,6 +476,7 @@ Tennis+ 1
 Tennis+ 2
 Tennis+ 3
 Tennis+ 4
+Tennis+ 5
 Tennis+ 6
 Tennis+ 7
 Tennis+ 8
