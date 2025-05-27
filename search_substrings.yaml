@@ -1,19 +1,7 @@
-filtering_enabled: false
+filtering_enabled: true
 search_substrings:
 - sky
 - espn
 - tnt
 - fox
-- bein
-- dazn
-- nbc
-- cbs
-- abc
-- wwe
-- nfl
-- nba
-- mlb
-- premier league
 - golf
-- f1
-- football
