@@ -1,18 +1,8 @@
-ESPN USA
-ESPN2 USA
 ESPNU USA
 ESPN 1 NL
 ESPN 2 NL
 ESPN Premium Argentina
-ESPN Brasil
-ESPN2 Brasil
-ESPN3 Brasil
-ESPN4 Brasil
-ESPN SUR
-ESPN2 SUR
 ESPN Deportes
-ESPNews
-Fox Sports 1 USA
 Fox Sports 2 USA
 FOX Soccer Plus
 Fox Cricket
@@ -27,36 +17,13 @@ Fox Sports Argentina
 Fox Sports 2 Argentina
 Fox Sports 3 Argentina
 Fox Sports Premium MX
-Fox Business
 FOX HD Bulgaria
-FOX USA
 Fox News
 FOXNY USA
 Fox Weather Channel
-GOLF Channel USA
 Movistar Golf Spain
-Sky Sports Football UK
-Sky Sports Arena UK
-Sky Sports Action UK
-Sky Sports Main Event
-Sky sports Premier League
-Sky Sports F1 UK
-Sky Sports Cricket
-Sky Sports Golf UK
 Sky Sports Golf Italy
-Sky Sport MotoGP Italy
-Sky Sport Tennis Italy
-Sky Sport F1 Italy
-Sky Sports News UK
-Sky Sports MIX UK
-Sky Sport Top Event DE
-Sky Sport Mix DE
 Sky Sport Bundesliga 1 HD
-Sky Sport Austria 1 HD
-Sky Sport Football Italy
-Sky Sport UNO Italy
-Sky Sport Arena Italy
-Sky Sports Racing UK
 Sky UNO Italy
 Sky Sport 1 NZ
 Sky Sport 2 NZ
@@ -77,7 +44,6 @@ Sky Cinema Animation UK
 Sky Cinema Family UK
 Sky Cinema Action UK
 Sky Cinema Thriller UK
-Sky Cinema Sci-Fi Horror UK
 Sky Cinema Collection Italy
 Sky Cinema Uno Italy
 Sky Cinema Action Italy
@@ -88,15 +54,11 @@ Sky Cinema Family Italy
 Sky Cinema Due +24 Italy
 Sky Cinema Drama Italy
 8Sky Cinema Suspense Italy
-Sky Sport 24 Italy
-Sky Sport Calcio Italy
 Sky Calcio 1 (251) Italy
-Sky Calcio 2 (252) Italy
 Sky Calcio 3 (253) Italy
 Sky Calcio 4 (254) Italy
 Sky Calcio 5 (255) Italy
 Sky Calcio 6 (256) Italy
-Sky Calcio 7 (257) Italy
 Sky Serie Italy
 Sky Showcase UK
 Sky Arts UK
@@ -105,11 +67,6 @@ Sky Crime
 Sky History
 Sky Witness HD
 Sky Atlantic
-TNT Sports 1 UK
-TNT Sports 2 UK
-TNT Sports 3 UK
-TNT Sports 4 UK
-TNT Brasil
 TNT Sports Argentina
 TNT Sports HD Chile
 TNT USA
