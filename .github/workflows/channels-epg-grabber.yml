@@ -35,7 +35,7 @@ jobs:
           git diff --staged --quiet || git commit -m "Update channels epg"
           git push --force
       
-  was external-repo-push:
+  external-repo-push:
     runs-on: ubuntu-latest
     needs: epg-grabber
     steps:
