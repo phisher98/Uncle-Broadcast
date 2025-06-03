@@ -42,7 +42,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.TOKEN_SECRET}}
         run: |
           git config --unset-all http.https://github.com/.extraheader
-          git clone --depth 1 $TARGET_REPO temp-target-repo
+          git clone --depth 1 https://user:${{GITHUB_TOKEN}}@github.com/j-lich/uncle-fox-epg temp-target-repo
           cp epgs/daddylive-channels-epg.xml epgs/daddylive-channels-epg.xml.gz temp-target-repo/
           cd temp-target-repo
           git config --global user.name "actions-user"
