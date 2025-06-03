@@ -39,7 +39,7 @@ jobs:
         env:
           TARGET_REPO: https://github.com/j-lich/uncle-fox-epg.git
           TARGET_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.TOKEN_SECRET}}
         run: |
           git clone --depth 1 $TARGET_REPO temp-target-repo
           cp epgs/daddylive-channels-epg.xml epgs/daddylive-channels-epg.xml.gz temp-target-repo/
