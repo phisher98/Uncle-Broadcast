@@ -58,7 +58,9 @@ jobs:
           path: uncle-fox-epg
 
       - name: Copy XML file into Uncle-Fox-EPG repo
-        run: cp tmp_epg/daddylive-channels-epg.xml uncle-fox-epg/external/all.xml
+        run: |
+          mkdir uncle-fox-epg/external/
+          cp tmp_epg/daddylive-channels-epg.xml uncle-fox-epg/external/all.xml
 
       - name: Commit and push XML file to Uncle-Fox-EPG
         working-directory: uncle-fox-epg
