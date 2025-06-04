@@ -45,5 +45,5 @@ if __name__ == "__main__":
 
     # Merge files: original + all b*
     all_files = [input_xml] + b_files
-    merge_epg_files(all_files, "epgs/guide.xml")
-    print("Merged into epgs/guide.xml")
+    merge_epg_files(all_files, "guide.xml")
+    print("Merged into guide.xml")
