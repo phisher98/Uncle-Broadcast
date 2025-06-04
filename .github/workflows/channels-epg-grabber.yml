@@ -36,6 +36,7 @@ jobs:
           git push --force
           
   backup-and-merge:
+    needs: epg-grabber
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -62,7 +63,7 @@ jobs:
           git push --force
           
   push-to-uncle-fox-epg:
-    needs: epg-grabber
+    needs: backup-and-merge
     runs-on: ubuntu-latest
     steps:
       - name: Checkout generated XML from source repo
