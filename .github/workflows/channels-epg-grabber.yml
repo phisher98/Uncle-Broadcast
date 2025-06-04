@@ -74,7 +74,8 @@ jobs:
       - name: Copy XML file to temp directory
         run: |
           mkdir tmp_epg
-          cp epgs/daddylive-channels-epg.xml tmp_epg/
+          cp epgs/daddylive-channels-epg.xml tmp_epg/single.xml
+          cp epgs/guide.xml tmp_epg/guide.xml
 
       - name: Checkout Uncle-Fox-EPG repository
         uses: actions/checkout@v3
@@ -87,7 +88,7 @@ jobs:
       - name: Copy XML file into Uncle-Fox-EPG repo
         run: |
           mkdir -p uncle-fox-epg/external/
-          cp tmp_epg/daddylive-channels-epg.xml uncle-fox-epg/external/single.xml
+          cp tmp_epg/single.xml uncle-fox-epg/external/single.xml
           cp tmp_epg/guide.xml uncle-fox-epg/external/guide.xml
 
       - name: Commit and push XML file to Uncle-Fox-EPG
