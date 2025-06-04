@@ -59,7 +59,7 @@ jobs:
 
       - name: Copy XML file into Uncle-Fox-EPG repo
         run: |
-          mkdir uncle-fox-epg/external/
+          mkdir -p uncle-fox-epg/external/
           cp tmp_epg/daddylive-channels-epg.xml uncle-fox-epg/external/all.xml
 
       - name: Commit and push XML file to Uncle-Fox-EPG
