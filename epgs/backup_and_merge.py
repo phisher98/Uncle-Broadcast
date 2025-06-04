@@ -34,11 +34,11 @@ def merge_epg_files(xml_files, output_file):
     base_tree.write(output_file, encoding='utf-8', xml_declaration=True)
 
 if __name__ == "__main__":
-    input_xml = "epgs/daddylive-channels-epg.xml"
+    input_xml = "daddylive-channels-epg.xml"
     b_files = []
     for b in range(1, 4):
         prefix = f"b{b}"
-        output_xml = f"epgs/daddylive-channels-epg_{prefix}.xml"
+        output_xml = f"daddylive-channels-epg_{prefix}.xml"
         prefix_epg_ids(input_xml, output_xml, prefix)
         b_files.append(output_xml)
     print("Created:", ", ".join(b_files))
