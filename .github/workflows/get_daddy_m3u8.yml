@@ -61,3 +61,39 @@ jobs:
           fi
         # Continue even if there are no changes to commit
         continue-on-error: true
+  
+  push-to-uncle-fox-epg:
+    needs: build-and-commit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout generated XML from source repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Copy XML file to temp directory
+        run: |
+          mkdir tmp_epg
+          cp daddylive_channels_proxied.m3u tmp_epg/all.m3u
+
+      - name: Checkout Uncle-Fox-EPG repository
+        uses: actions/checkout@v3
+        with:
+          repository: J-Lich/Uncle-Fox-EPG
+          token: ${{ secrets.REPO_TOKEN }}
+          ref: main
+          path: uncle-fox-epg
+
+      - name: Copy XML file into Uncle-Fox-EPG repo
+        run: |
+          mkdir -p uncle-fox-epg/external/
+          cp tmp_epg/all.m3u uncle-fox-epg/external/all.m3u
+
+      - name: Commit and push XML file to Uncle-Fox-EPG
+        working-directory: uncle-fox-epg
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add external/all.xml
+          git commit -m "Add new EPG XML file [CI skip]" || echo "No changes to commit"
+          git push
