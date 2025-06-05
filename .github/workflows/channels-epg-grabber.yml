@@ -58,7 +58,7 @@ jobs:
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add  daddylive-channels-epg_z2.xml epgs/daddylive-channels-epg_z3.xml epgs/guide.xml
+          git add  epgs/daddylive-channels-epg_z1.xml epgs/daddylive-channels-epg_z2.xml epgs/daddylive-channels-epg_z3.xml epgs/guide.xml
           git diff --staged --quiet || git commit -m "Update channels epg"
           git push --force
           
