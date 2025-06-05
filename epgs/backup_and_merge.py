@@ -37,7 +37,7 @@ if __name__ == "__main__":
     input_xml = "daddylive-channels-epg.xml"
     b_files = []
     for b in range(1, 4):
-        prefix = f"b{b}"
+        prefix = f"z{b}"
         output_xml = f"daddylive-channels-epg_{prefix}.xml"
         prefix_epg_ids(input_xml, output_xml, prefix)
         b_files.append(output_xml)
