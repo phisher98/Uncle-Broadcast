@@ -7,7 +7,6 @@ on:
 
 jobs:
   backup-and-merge:
-    needs: epg-grabber
     runs-on: ubuntu-latest
     permissions:
       contents: write
