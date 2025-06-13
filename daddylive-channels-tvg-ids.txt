@@ -16,7 +16,6 @@ Fox Sports Argentina
 Fox Sports 3 Argentina
 Fox Sports Premium MX
 FOX HD Bulgaria
-Fox News
 FOXNY USA
 Fox Weather Channel
 Movistar Golf Spain
@@ -62,7 +61,5 @@ Sky Arts UK
 Sky Comedy UK
 Sky Crime
 Sky History
-Sky Witness HD
-Sky Atlantic
 TNT Sports Argentina
 TNT Sports HD Chile
