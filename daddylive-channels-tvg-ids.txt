@@ -1,10 +1,6 @@
-ESPN 1 NL
 ESPN 2 NL
-ESPN Premium Argentina
-ESPN Deportes
 Fox Sports 2 USA
 FOX Soccer Plus
-Fox Cricket
 FOX Deportes USA
 FOX Sports 502 AU
 FOX Sports 503 AU
@@ -13,6 +9,7 @@ FOX Sports 505 AU
 FOX Sports 506 AU
 FOX Sports 507 AU
 Fox Sports Argentina
+Fox Sports 2 Argentina
 Fox Sports 3 Argentina
 Fox Sports Premium MX
 FOX HD Bulgaria
@@ -61,5 +58,4 @@ Sky Arts UK
 Sky Comedy UK
 Sky Crime
 Sky History
-TNT Sports Argentina
 TNT Sports HD Chile
