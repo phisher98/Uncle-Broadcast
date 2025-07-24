@@ -109,6 +109,7 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
