@@ -11,6 +11,11 @@ Golf.Channel.USA.us
 SkySp.Cricket.uk
 SkySp.F1.uk
 SkySp.Fball.uk
+SkySp.PL.uk
+Hub.Premier.1.sg
+Hub.Premier.2.sg
+Hub.Premier.3.sg
+Hub.Premier.4.sg
 SkySp.Golf.uk
 SkySp.Racing.uk
 SkySp.Tennis.HD.uk
