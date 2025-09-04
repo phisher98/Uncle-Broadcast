@@ -24,7 +24,7 @@ TVG_ID_OUTPUT_FILE = "daddylive-channels-tvg-ids.txt" # New: Output file for TVG
 
 REQUEST_TIMEOUT = 25
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-BASE_URL = "https://daddylive.dad"
+BASE_URL = "https://thedaddy.top"
 FETCH_DELAY_SECONDS = 2
 
 PROXY_HOST_IP = "127.0.0.1"
